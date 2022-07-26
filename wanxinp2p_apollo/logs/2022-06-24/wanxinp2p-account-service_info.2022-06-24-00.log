@@ -1,0 +1,72 @@
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:00:30,018 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:01:22,985 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:01:30,021 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:02:30,033 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:03:30,050 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:04:30,082 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:05:30,092 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:06:22,994 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:06:30,104 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:07:30,112 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:08:30,131 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:09:30,135 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:10:30,151 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:11:23,006 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:11:30,168 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:12:30,182 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:13:30,193 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:14:30,208 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:15:30,212 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:16:23,011 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:16:30,225 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:17:30,240 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:18:30,249 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:19:30,263 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:20:30,268 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:21:23,015 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:21:30,277 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:22:30,284 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:23:30,293 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:24:30,320 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:25:30,340 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:26:23,021 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:26:30,357 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:27:30,371 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:28:30,375 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:29:30,392 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:30:30,452 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:31:23,033 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:31:30,482 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:32:30,503 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:33:30,510 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:34:30,525 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:35:30,540 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:36:23,046 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:36:30,556 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:37:30,566 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:38:30,570 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:39:30,585 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:40:30,597 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:41:23,057 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:41:30,602 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:42:30,616 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:43:30,635 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:44:30,643 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:45:30,659 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:46:23,068 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:46:30,664 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:47:30,680 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:48:30,696 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:49:30,698 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:50:30,714 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:51:23,077 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:51:30,724 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:52:30,731 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:53:30,740 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:54:30,751 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:55:30,757 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:56:23,091 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:56:30,771 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:57:30,781 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:58:30,795 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-24 00:59:30,802 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60

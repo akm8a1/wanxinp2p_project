@@ -1,0 +1,304 @@
+Discovery:53000 2022-06-28 17:22:08,748 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+Discovery:53000 2022-06-28 17:22:10,313 WARN [main][EndpointId.java:135] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+Discovery:53000 2022-06-28 17:22:10,740 INFO [main][GenericScope.java:294] - BeanFactory id=33c68227-122c-36dd-8028-a36de4f592a4
+Discovery:53000 2022-06-28 17:22:10,855 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$77f9dda2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Discovery:53000 2022-06-28 17:22:11,620 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 53000 (http)
+Discovery:53000 2022-06-28 17:22:11,657 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-53000"]
+Discovery:53000 2022-06-28 17:22:11,672 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+Discovery:53000 2022-06-28 17:22:11,673 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+Discovery:53000 2022-06-28 17:22:11,718 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk1.8.0_161\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\Ruby26-x64\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\VanDyke Software\Clients\;E:\Anaconda;E:\Anaconda\Library\mingw-w64\bin;E:\Anaconda\Library\usr\bin;E:\Anaconda\Library\bin;E:\Anaconda\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\mysql-5.7.20-winx64\bin;C:\Program Files\dotnet\;E:\nodejs\;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;E:\spark-2.1.1-hadoop2.7\bin;D:\Android\Sdk\platform-tools;E:\TortoiseSVN\bin;E:\TortoiseSVN\bin;E:\Subversion\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\CMake\bin;C:\mingw64\bin;E:\scala-2.12.15\bin;C:\Program Files (x86)\scala\bin;E:\spark\bin;E:\spark-2.1.1-hadoop2.7\bin;E:\NetSarang\Xshell 7\;E:\NetSarang\Xftp 7\;C:\Program Files\Git\cmd;E:\apache-maven-3.6.3\bin;E:\jdk1.8.0_161\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;E:\IntelliJ IDEA\bin;;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Users\Administrator\.dotnet\tools;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;E:\Microsoft VS Code\bin;.]
+Discovery:53000 2022-06-28 17:22:12,076 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+Discovery:53000 2022-06-28 17:22:12,077 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 3248 ms
+Discovery:53000 2022-06-28 17:22:12,295 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+Discovery:53000 2022-06-28 17:22:12,296 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+Discovery:53000 2022-06-28 17:22:12,352 INFO [main][DynamicPropertyFactory.java:281] - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@f1868c9
+Discovery:53000 2022-06-28 17:22:15,269 INFO [main][WebApplicationImpl.java:815] - Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+Discovery:53000 2022-06-28 17:22:15,440 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+Discovery:53000 2022-06-28 17:22:15,441 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+Discovery:53000 2022-06-28 17:22:16,184 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+Discovery:53000 2022-06-28 17:22:16,184 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+Discovery:53000 2022-06-28 17:22:16,862 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+Discovery:53000 2022-06-28 17:22:16,862 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+Discovery:53000 2022-06-28 17:22:17,398 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+Discovery:53000 2022-06-28 17:22:19,984 INFO [main][InstanceInfoFactory.java:71] - Setting initial instance status as: STARTING
+Discovery:53000 2022-06-28 17:22:20,185 INFO [main][DiscoveryClient.java:349] - Initializing Eureka in region us-east-1
+Discovery:53000 2022-06-28 17:22:20,185 INFO [main][DiscoveryClient.java:352] - Client configured to neither register nor query for data.
+Discovery:53000 2022-06-28 17:22:20,263 INFO [main][DiscoveryClient.java:365] - Discovery Client initialized at timestamp 1656408140237 with initial instances count: 0
+Discovery:53000 2022-06-28 17:22:20,379 INFO [main][DefaultEurekaServerContext.java:63] - Initializing ...
+Discovery:53000 2022-06-28 17:22:20,382 INFO [main][PeerEurekaNodes.java:188] - Adding new peer nodes [http://localhost:53000/eureka/]
+Discovery:53000 2022-06-28 17:22:22,308 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+Discovery:53000 2022-06-28 17:22:22,308 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+Discovery:53000 2022-06-28 17:22:22,308 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+Discovery:53000 2022-06-28 17:22:22,308 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+Discovery:53000 2022-06-28 17:22:22,527 INFO [main][PeerEurekaNodes.java:110] - Replica node URL:  http://localhost:53000/eureka/
+Discovery:53000 2022-06-28 17:22:22,605 INFO [main][AbstractInstanceRegistry.java:151] - Finished initializing remote region registries. All known remote regions: []
+Discovery:53000 2022-06-28 17:22:22,606 INFO [main][DefaultEurekaServerContext.java:70] - Initialized
+Discovery:53000 2022-06-28 17:22:22,619 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+Discovery:53000 2022-06-28 17:22:22,855 INFO [main][EurekaServiceRegistry.java:42] - Registering application HNRADIO-DISCOVERY with eureka with status UP
+Discovery:53000 2022-06-28 17:22:22,860 INFO [Thread-52][EurekaServerBootstrap.java:109] - Setting the eureka configuration..
+Discovery:53000 2022-06-28 17:22:22,863 INFO [Thread-52][EurekaServerBootstrap.java:114] - Eureka data center value eureka.datacenter is not set, defaulting to default
+Discovery:53000 2022-06-28 17:22:22,864 INFO [Thread-52][EurekaServerBootstrap.java:128] - Eureka environment value eureka.environment is not set, defaulting to test
+Discovery:53000 2022-06-28 17:22:22,875 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-53000"]
+Discovery:53000 2022-06-28 17:22:22,886 INFO [Thread-52][EurekaServerBootstrap.java:184] - isAws returned false
+Discovery:53000 2022-06-28 17:22:22,887 INFO [Thread-52][EurekaServerBootstrap.java:152] - Initialized server context
+Discovery:53000 2022-06-28 17:22:22,887 INFO [Thread-52][PeerAwareInstanceRegistryImpl.java:241] - Got 1 instances from neighboring DS node
+Discovery:53000 2022-06-28 17:22:22,887 INFO [Thread-52][PeerAwareInstanceRegistryImpl.java:242] - Renew threshold is: 1
+Discovery:53000 2022-06-28 17:22:22,888 INFO [Thread-52][PeerAwareInstanceRegistryImpl.java:253] - Changing status to UP
+Discovery:53000 2022-06-28 17:22:22,900 INFO [Thread-52][EurekaServerInitializerConfiguration.java:72] - Started Eureka Server
+Discovery:53000 2022-06-28 17:22:22,917 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 53000 (http) with context path ''
+Discovery:53000 2022-06-28 17:22:22,918 INFO [main][EurekaAutoServiceRegistration.java:141] - Updating port to 53000
+Discovery:53000 2022-06-28 17:22:22,921 INFO [main][StartupInfoLogger.java:59] - Started DiscoveryServer in 20.023 seconds (JVM running for 24.578)
+Discovery:53000 2022-06-28 17:22:24,678 INFO [RMI TCP Connection(3)-192.168.80.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+Discovery:53000 2022-06-28 17:22:24,679 INFO [RMI TCP Connection(3)-192.168.80.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+Discovery:53000 2022-06-28 17:22:24,691 INFO [RMI TCP Connection(3)-192.168.80.1][FrameworkServlet.java:546] - Completed initialization in 11 ms
+Discovery:53000 2022-06-28 17:22:32,929 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:22:42,935 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:22:52,939 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:23:02,950 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:23:12,964 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:23:22,975 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:23:32,989 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:23:43,003 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:23:53,018 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:24:03,018 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:24:13,031 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+Discovery:53000 2022-06-28 17:24:23,031 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:24:33,043 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:24:43,057 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:24:53,066 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:25:03,075 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:25:13,087 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:25:23,088 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:25:33,096 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:25:43,102 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:25:53,108 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:26:03,109 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:26:13,116 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:26:23,120 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:26:33,126 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:26:43,128 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:26:53,135 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:27:03,139 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:27:13,154 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:27:14,459 INFO [http-nio-53000-exec-4][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:127.0.0.1:53010 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:27:15,137 INFO [http-nio-53000-exec-3][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:127.0.0.1:53010 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:27:23,156 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:27:33,161 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:27:43,162 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:27:53,170 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:28:03,176 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:28:05,659 INFO [http-nio-53000-exec-9][AbstractInstanceRegistry.java:266] - Registered instance ACCOUNT-SERVICE/account-service:127.0.0.1:53030 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:28:06,194 INFO [http-nio-53000-exec-8][AbstractInstanceRegistry.java:266] - Registered instance ACCOUNT-SERVICE/account-service:127.0.0.1:53030 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:28:12,041 INFO [http-nio-53000-exec-1][AbstractInstanceRegistry.java:266] - Registered instance CONSUMER-SERVICE/consumer-service:127.0.0.1:53050 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:28:12,565 INFO [http-nio-53000-exec-4][AbstractInstanceRegistry.java:266] - Registered instance CONSUMER-SERVICE/consumer-service:127.0.0.1:53050 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:28:13,180 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:28:16,766 INFO [http-nio-53000-exec-7][AbstractInstanceRegistry.java:266] - Registered instance UAA-SERVICE/uaa-service:127.0.0.1:53020 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:28:17,287 INFO [http-nio-53000-exec-9][AbstractInstanceRegistry.java:266] - Registered instance UAA-SERVICE/uaa-service:127.0.0.1:53020 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:28:23,181 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:28:24,421 INFO [http-nio-53000-exec-10][AbstractInstanceRegistry.java:266] - Registered instance TRANSACTION-SERVICE/transaction-service:192.168.2.167:53060 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:28:24,942 INFO [http-nio-53000-exec-1][AbstractInstanceRegistry.java:266] - Registered instance TRANSACTION-SERVICE/transaction-service:192.168.2.167:53060 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:28:33,193 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+Discovery:53000 2022-06-28 17:28:43,203 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:28:53,213 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:29:03,220 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:29:13,234 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:29:23,237 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:29:33,241 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:29:43,256 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 16ms
+Discovery:53000 2022-06-28 17:29:53,266 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:30:03,269 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:30:13,284 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:30:15,752 INFO [http-nio-53000-exec-6][AbstractInstanceRegistry.java:266] - Registered instance CONTENT-SEARCH-SERVICE/content-search-service:192.168.2.167:53090 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:30:16,279 INFO [http-nio-53000-exec-8][AbstractInstanceRegistry.java:266] - Registered instance CONTENT-SEARCH-SERVICE/content-search-service:192.168.2.167:53090 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:30:23,294 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:30:33,303 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:30:43,308 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:30:53,316 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:31:03,320 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:31:13,324 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:31:23,339 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:31:33,343 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:31:43,346 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:31:53,357 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:32:03,358 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:32:13,370 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+Discovery:53000 2022-06-28 17:32:23,385 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:32:33,387 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:32:43,389 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:32:53,395 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:33:03,404 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:33:13,406 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:33:23,419 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:33:33,424 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:33:43,431 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:33:53,445 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:34:03,451 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:34:13,453 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:34:23,464 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:34:33,472 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:34:43,485 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:34:53,492 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:35:03,496 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:35:13,502 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:35:23,511 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:35:33,522 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:35:43,527 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:35:53,530 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:36:03,533 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:36:13,548 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:36:23,560 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+Discovery:53000 2022-06-28 17:36:33,570 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:36:43,571 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:36:53,572 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:37:03,577 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:37:13,591 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:37:22,609 INFO [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater][PeerAwareInstanceRegistryImpl.java:539] - Current renewal threshold is : 0
+Discovery:53000 2022-06-28 17:37:23,594 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:37:33,598 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:37:43,601 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:37:53,613 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:38:03,616 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:38:13,624 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:38:23,630 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:38:33,641 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:38:43,642 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:38:53,652 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:39:03,666 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:39:13,674 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:39:23,675 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:39:33,690 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:39:43,699 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:39:53,708 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:40:03,720 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:40:13,722 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:40:23,737 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:40:33,750 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+Discovery:53000 2022-06-28 17:40:43,751 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:40:53,756 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:41:03,771 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:41:13,777 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:41:14,554 INFO [http-nio-53000-exec-9][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:127.0.0.1:53010 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:41:15,076 INFO [http-nio-53000-exec-5][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:127.0.0.1:53010 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:41:23,787 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:41:33,794 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:41:43,801 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:41:53,805 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:42:03,811 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:42:13,822 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:42:23,839 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 17ms
+Discovery:53000 2022-06-28 17:42:33,853 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:42:43,854 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:42:53,859 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:42:56,688 INFO [http-nio-53000-exec-7][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:127.0.0.1:53010 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:42:57,210 INFO [http-nio-53000-exec-4][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:127.0.0.1:53010 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:43:03,873 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:43:13,874 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:43:23,874 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:43:33,878 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:43:43,891 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+Discovery:53000 2022-06-28 17:43:53,905 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:44:03,919 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:44:13,932 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:44:23,947 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:44:33,962 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:44:43,964 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:44:53,974 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:45:03,979 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:45:13,990 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:45:20,611 INFO [http-nio-53000-exec-8][AbstractInstanceRegistry.java:266] - Registered instance TRANSACTION-SERVICE/transaction-service:192.168.2.167:53060 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:45:21,145 INFO [http-nio-53000-exec-5][AbstractInstanceRegistry.java:266] - Registered instance TRANSACTION-SERVICE/transaction-service:192.168.2.167:53060 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:45:24,003 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+Discovery:53000 2022-06-28 17:45:34,007 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:45:44,016 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:45:54,025 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:46:04,041 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:46:14,046 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:46:24,052 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:46:34,057 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:46:44,059 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:46:54,065 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:47:04,076 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:47:14,083 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:47:24,091 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:47:34,095 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:47:44,097 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:47:54,113 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:48:04,115 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:48:14,116 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:48:24,121 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:48:34,133 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:48:44,137 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:48:54,151 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:49:04,165 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:49:14,179 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:49:24,190 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:49:34,206 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:49:44,219 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:49:54,233 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:50:04,248 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:50:09,370 INFO [http-nio-53000-exec-5][AbstractInstanceRegistry.java:266] - Registered instance TRANSACTION-SERVICE/transaction-service:192.168.2.167:53060 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:50:09,900 INFO [http-nio-53000-exec-9][AbstractInstanceRegistry.java:266] - Registered instance TRANSACTION-SERVICE/transaction-service:192.168.2.167:53060 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:50:14,253 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:50:24,256 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:50:34,261 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:50:44,276 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:50:54,286 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:51:04,301 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:51:14,304 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:51:24,310 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:51:34,315 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:51:44,328 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+Discovery:53000 2022-06-28 17:51:54,338 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:52:04,348 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 9ms
+Discovery:53000 2022-06-28 17:52:14,355 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:52:22,623 INFO [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater][PeerAwareInstanceRegistryImpl.java:539] - Current renewal threshold is : 0
+Discovery:53000 2022-06-28 17:52:24,357 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:52:34,371 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:52:44,376 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:52:54,392 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:53:04,405 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:53:14,420 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:53:24,421 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:53:34,435 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:53:44,443 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:53:54,457 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:54:04,472 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+Discovery:53000 2022-06-28 17:54:14,473 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:54:24,485 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:54:34,488 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:54:43,878 INFO [http-nio-53000-exec-10][AbstractInstanceRegistry.java:266] - Registered instance TRANSACTION-SERVICE/transaction-service:192.168.2.167:53060 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:54:44,420 INFO [http-nio-53000-exec-3][AbstractInstanceRegistry.java:266] - Registered instance TRANSACTION-SERVICE/transaction-service:192.168.2.167:53060 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:54:44,495 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:54:54,510 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:55:04,525 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 16ms
+Discovery:53000 2022-06-28 17:55:14,541 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:55:24,552 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:55:34,560 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:55:44,568 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+Discovery:53000 2022-06-28 17:55:54,573 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 4ms
+Discovery:53000 2022-06-28 17:56:04,580 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:56:14,590 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:56:24,604 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:56:34,618 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:56:44,629 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:56:54,643 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+Discovery:53000 2022-06-28 17:57:04,644 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:57:14,650 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:57:24,651 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:57:34,662 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 10ms
+Discovery:53000 2022-06-28 17:57:44,676 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 13ms
+Discovery:53000 2022-06-28 17:57:54,682 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:58:04,090 INFO [http-nio-53000-exec-5][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:127.0.0.1:53010 with status UP (replication=false)
+Discovery:53000 2022-06-28 17:58:04,611 INFO [http-nio-53000-exec-9][AbstractInstanceRegistry.java:266] - Registered instance GATEWAY-SERVER/gateway-server:127.0.0.1:53010 with status UP (replication=true)
+Discovery:53000 2022-06-28 17:58:04,688 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+Discovery:53000 2022-06-28 17:58:14,696 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:58:24,698 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 2ms
+Discovery:53000 2022-06-28 17:58:34,700 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+Discovery:53000 2022-06-28 17:58:44,702 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:58:54,738 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 36ms
+Discovery:53000 2022-06-28 17:59:04,742 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 3ms
+Discovery:53000 2022-06-28 17:59:14,742 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+Discovery:53000 2022-06-28 17:59:24,749 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+Discovery:53000 2022-06-28 17:59:34,761 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+Discovery:53000 2022-06-28 17:59:44,767 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+Discovery:53000 2022-06-28 17:59:54,773 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms

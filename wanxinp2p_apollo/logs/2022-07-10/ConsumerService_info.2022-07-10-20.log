@@ -1,0 +1,107 @@
+[ConsumerService][53050] 2022-07-10 20:00:06,110 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:00:40,487 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:01:06,129 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:02:06,133 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:03:06,143 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:04:06,154 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:05:06,170 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:05:40,491 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:06:06,175 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:07:06,187 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:08:06,197 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:09:06,205 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:10:06,211 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:10:40,506 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:11:06,228 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:12:06,235 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:13:06,251 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:14:06,269 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:15:06,280 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:15:40,518 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:15:48,829 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791983, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:15:49,659 INFO [http-nio-53050-exec-7][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791983, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:15:51,879 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791983, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:15:54,729 INFO [http-nio-53050-exec-6][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791983, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:16:06,299 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:16:08,491 INFO [http-nio-53050-exec-10][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:16:10,723 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:16:11,283 INFO [http-nio-53050-exec-2][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:16:11,800 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:16:12,518 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:16:19,701 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:17:06,306 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:17:19,509 INFO [http-nio-53050-exec-7][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:17:50,456 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:18:06,317 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:19:06,327 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:20:06,333 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:20:40,529 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:21:06,339 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:21:35,350 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:21:41,500 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:21:47,845 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:21:57,130 INFO [http-nio-53050-exec-5][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:22:00,470 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:22:06,352 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:23:06,362 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:23:21,783 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:23:23,327 INFO [http-nio-53050-exec-6][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:24:06,375 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:25:06,384 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:25:40,539 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:26:06,402 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:27:06,407 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:28:06,458 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:29:06,471 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:30:06,473 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:30:40,543 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:31:06,482 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:31:29,731 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:31:30,781 INFO [http-nio-53050-exec-2][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:31:32,126 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:31:34,249 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:31:35,800 INFO [http-nio-53050-exec-5][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791985, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:31:46,763 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:31:47,495 INFO [http-nio-53050-exec-7][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:31:48,041 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:32:06,491 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:32:21,527 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:32:27,424 INFO [http-nio-53050-exec-2][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:32:28,758 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:32:42,611 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791981, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:32:43,943 INFO [http-nio-53050-exec-5][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791981, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:32:49,889 INFO [http-nio-53050-exec-7][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791981, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:33:06,497 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:33:36,011 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791981, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:33:40,044 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791981, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-07-10 20:34:06,508 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:35:06,516 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:35:40,553 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:36:06,530 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:37:06,532 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:38:06,551 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:39:06,561 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:40:06,565 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:40:40,566 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:41:06,579 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:42:06,584 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:43:06,589 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:44:06,600 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:45:06,612 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:45:40,567 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:46:06,620 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:47:06,629 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:48:06,645 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:49:06,655 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:50:06,664 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:50:40,577 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:51:06,671 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:52:06,684 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:53:06,698 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:54:06,706 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:55:06,720 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:55:40,580 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-07-10 20:56:06,738 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:57:06,748 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:58:06,766 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-07-10 20:59:06,775 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60

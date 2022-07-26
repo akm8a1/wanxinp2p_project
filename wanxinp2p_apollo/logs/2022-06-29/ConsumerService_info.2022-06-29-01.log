@@ -1,0 +1,819 @@
+[ConsumerService][53050] 2022-06-29 01:00:04,405 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:08,449 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:08,591 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:10,479 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:32,522 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:34,548 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:36,568 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:38,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:38,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:40,616 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:51,626 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:00:56,595 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:00:58,620 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:04,409 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:06,435 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:08,463 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:08,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:20,658 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:22,688 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:34,420 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:36,441 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:38,473 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:38,585 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:44,722 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:46,744 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:01:51,633 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:02:04,406 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:06,429 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:08,451 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:08,578 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:10,478 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:12,502 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:34,414 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:36,437 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:38,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:38,584 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:40,485 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:02:51,639 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:03:02,518 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:04,530 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:06,560 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:08,583 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:08,583 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:27,563 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:29,590 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:36,432 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:36,943 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:03:38,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:38,584 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:51,631 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:03:51,646 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:03:53,659 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:04,418 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:06,455 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:08,485 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:08,595 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:15,704 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:17,725 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:34,412 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:36,431 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:38,450 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:38,580 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:40,475 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:42,493 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:04:51,664 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:05:04,407 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:06,434 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:08,468 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:08,595 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:10,498 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:34,550 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:36,574 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:38,574 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:38,589 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:40,619 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:51,668 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:05:56,572 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:05:58,601 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:04,403 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:06,426 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:08,465 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:08,591 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:20,640 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:22,669 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:34,422 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:36,444 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:38,473 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:38,585 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:44,700 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:46,725 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:06:51,672 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:07:04,402 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:06,432 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:08,460 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:08,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:10,485 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:12,512 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:34,408 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:36,432 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:38,460 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:38,570 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:40,485 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:07:51,680 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:08:02,540 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:04,570 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:06,593 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:08,596 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:08,628 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:27,568 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:29,592 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:34,407 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:36,430 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:36,949 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:08:38,459 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:38,583 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:51,632 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:08:51,695 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:08:53,652 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:04,406 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:06,428 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:08,442 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:08,585 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:15,681 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:17,709 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:34,420 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:36,442 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:38,465 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:38,578 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:40,494 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:42,516 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:09:51,708 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:10:04,392 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:06,416 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:08,454 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:08,599 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:10,489 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:32,526 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:36,599 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:38,584 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:38,632 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:51,715 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:10:57,566 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:10:59,598 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:04,410 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:06,437 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:08,476 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:08,603 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:21,652 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:23,683 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:34,429 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:36,459 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:38,483 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:38,594 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:45,711 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:47,745 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:11:51,720 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:12:04,419 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:06,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:08,497 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:08,591 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:10,527 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:12,548 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:15,321 INFO [http-nio-53050-exec-10][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:12:34,425 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:36,453 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:38,488 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:38,612 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:40,520 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:12:51,737 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:13:02,559 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:04,601 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:06,632 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:08,607 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:08,668 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:10,715 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:19,477 INFO [http-nio-53050-exec-2][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:13:20,028 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:13:26,525 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:13:26,630 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:28,651 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:36,430 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:36,963 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:13:38,452 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:38,576 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:41,156 INFO [http-nio-53050-exec-5][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:13:50,688 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:13:51,750 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:13:52,726 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:04,429 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:06,470 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:08,504 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:08,581 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:14,763 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:16,797 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:34,399 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:36,429 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:38,454 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:38,580 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:40,513 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:42,546 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:14:51,763 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:15:00,025 INFO [http-nio-53050-exec-7][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:15:04,416 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:06,440 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:08,453 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:08,577 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:10,478 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:17,859 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:15:32,522 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:34,565 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:36,603 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:38,594 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:38,627 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:40,653 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:51,779 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:15:56,399 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:15:56,585 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:15:58,632 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:04,421 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:06,459 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:08,476 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:08,573 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:20,686 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:22,733 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:34,402 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:36,439 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:38,488 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:38,629 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:44,762 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:46,789 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:16:51,787 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:17:04,412 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:06,461 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:08,492 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:08,584 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:10,527 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:11,115 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:17:12,056 INFO [http-nio-53050-exec-2][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:17:12,560 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:34,398 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:36,424 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:38,450 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:38,591 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:40,472 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:17:51,802 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:18:02,518 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:04,546 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:06,579 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:08,609 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:08,625 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:27,562 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:29,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:34,415 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:36,467 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:36,973 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:18:38,500 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:38,596 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:51,619 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:18:51,807 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:18:53,651 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:04,411 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:06,434 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:08,461 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:08,571 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:15,687 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:17,708 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:18,380 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:19:34,406 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:36,436 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:38,468 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:38,613 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:40,514 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:42,545 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:19:49,583 INFO [http-nio-53050-exec-5][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:19:51,748 INFO [http-nio-53050-exec-6][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:19:51,822 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:20:04,415 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:06,440 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:08,474 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:08,599 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:10,534 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:34,616 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:38,593 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:40,796 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:51,837 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:20:56,644 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:20:58,702 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:04,395 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:06,433 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:08,462 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:08,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:20,739 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:22,755 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:34,422 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:36,465 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:38,522 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:38,615 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:44,789 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:46,825 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:21:51,850 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:22:04,382 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:06,404 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:08,419 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:08,591 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:10,461 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:12,506 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:34,435 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:36,455 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:38,494 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:38,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:40,548 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:22:51,857 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:23:02,571 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:04,597 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:06,623 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:08,592 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:08,670 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:27,606 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:29,647 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:34,424 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:36,452 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:36,987 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:23:38,473 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:38,585 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:51,676 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:23:51,864 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:23:53,734 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:04,428 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:06,449 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:08,461 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:08,568 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:17,822 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:34,431 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:36,474 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:38,520 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:38,600 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:40,558 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:42,605 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:24:51,878 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:25:04,414 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:06,447 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:08,492 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:08,586 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:10,518 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:32,557 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:34,591 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:35,300 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:25:36,632 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:38,579 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:38,659 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:51,885 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:25:55,770 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:25:57,319 INFO [http-nio-53050-exec-10][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:25:57,581 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:25:59,439 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:25:59,596 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:08,473 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:08,606 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:21,646 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:23,690 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:34,426 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:36,466 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:38,500 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:38,610 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:45,719 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:47,745 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:26:51,896 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:27:04,399 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:08,487 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:08,611 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:10,517 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:12,551 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:36,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:38,489 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:38,607 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:40,517 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:27:51,899 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:28:02,537 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:04,563 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:06,613 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:08,602 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:08,626 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:10,662 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:26,591 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:28,639 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:34,419 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:36,444 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:36,997 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:28:38,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:38,595 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:47,140 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:28:49,926 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:28:50,688 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:28:51,724 INFO [http-nio-53050-exec-5][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:28:51,906 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:28:52,710 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:04,399 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:06,444 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:08,469 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:08,596 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:14,770 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:16,819 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:34,442 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:36,450 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:38,469 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:38,579 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:40,513 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:42,560 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:29:43,802 INFO [http-nio-53050-exec-6][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:29:46,130 INFO [http-nio-53050-exec-7][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:29:51,921 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:30:04,404 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:05,319 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:30:06,441 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:08,490 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:08,599 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:10,522 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:13,435 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:30:15,739 INFO [http-nio-53050-exec-10][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:30:30,182 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:30:32,560 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:34,603 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:38,583 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:38,646 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:40,663 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:51,928 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:30:56,627 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:30:58,672 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:04,432 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:08,490 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:08,585 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:20,699 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:22,713 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:34,438 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:36,479 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:38,510 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:38,587 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:44,750 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:46,804 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:31:51,944 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:32:04,428 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:08,527 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:08,590 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:10,571 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:12,604 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:12,789 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:32:34,424 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:36,481 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:38,525 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:38,600 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:40,580 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:32:51,955 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:33:02,627 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:04,684 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:06,717 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:08,598 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:08,755 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:10,793 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:26,728 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:28,788 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:34,436 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:36,479 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:37,010 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:33:38,524 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:38,601 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:50,839 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:33:51,975 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:33:52,867 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:04,431 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:06,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:08,511 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:08,622 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:14,929 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:16,972 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:34,431 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:36,469 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:38,511 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:38,604 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:40,553 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:42,606 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:34:51,984 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:35:04,437 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:35:08,602 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:35:10,550 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:35:32,613 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:35:34,668 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:35:38,624 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:35:40,807 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:35:51,995 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:35:56,725 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:35:58,779 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:04,428 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:06,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:08,522 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:08,614 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:20,825 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:22,868 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:34,406 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:38,512 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:38,605 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:44,918 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:46,974 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:36:52,007 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:37:04,430 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:06,485 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:08,529 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:08,623 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:10,578 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:12,635 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:34,410 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:36,483 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:38,532 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:38,595 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:40,580 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:37:52,011 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:38:02,647 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:04,688 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:06,744 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:08,596 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:08,798 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:27,702 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:29,742 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:34,432 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:37,011 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:38:38,552 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:38,615 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:51,797 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:38:52,028 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:38:53,853 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:04,419 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:06,448 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:08,495 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:08,603 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:15,909 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:17,951 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:34,438 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:38,533 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:38,626 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:40,584 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:42,638 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:39:52,040 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:40:04,429 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:06,467 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:08,523 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:08,616 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:10,566 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:32,621 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:34,678 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:36,721 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:38,594 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:40,814 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:52,045 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:40:56,721 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:40:58,768 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:06,468 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:08,513 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:08,607 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:20,823 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:22,862 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:34,407 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:36,433 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:38,477 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:38,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:44,904 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:46,947 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:41:52,050 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:42:06,497 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:08,537 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:08,600 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:10,577 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:12,628 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:25,975 INFO [http-nio-53050-exec-5][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:42:28,191 INFO [http-nio-53050-exec-6][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:42:34,397 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:35,213 INFO [http-nio-53050-exec-7][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:42:36,425 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:38,466 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:38,624 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:40,525 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:42:52,059 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:43:02,567 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:04,620 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:06,653 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:08,590 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:08,684 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:10,709 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:26,652 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:28,695 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:34,399 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:37,020 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:43:38,494 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:38,601 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:50,726 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:43:52,065 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:43:52,768 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:04,434 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:06,493 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:08,552 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:08,613 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:14,822 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:16,855 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:34,431 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:36,477 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:38,518 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:38,581 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:40,564 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:42,594 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:44:52,078 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:45:04,421 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:06,479 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:08,515 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:08,578 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:10,530 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:32,585 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:34,624 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:36,681 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:38,577 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:38,716 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:52,084 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:45:57,668 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:45:59,712 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:04,397 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:06,442 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:08,486 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:08,626 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:21,730 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:23,788 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:34,438 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:36,483 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:38,527 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:38,604 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:45,831 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:47,871 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:46:52,093 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:47:04,438 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:06,469 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:08,514 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:08,610 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:10,550 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:12,582 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:34,441 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:38,508 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:38,587 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:40,537 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:47:52,106 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:48:00,747 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:48:02,560 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:06,637 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:08,598 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:08,675 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:27,633 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:29,683 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:34,419 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:36,461 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:37,020 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:48:38,493 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:38,600 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:51,716 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:48:52,109 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:48:53,751 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:06,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:08,499 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:08,593 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:15,797 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:17,816 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:34,441 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:36,500 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:38,558 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:38,603 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:40,567 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:42,619 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:49:52,117 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:49:58,432 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:50:04,427 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:06,451 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:07,287 INFO [http-nio-53050-exec-2][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:50:08,479 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:08,572 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:08,833 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:50:10,511 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:32,545 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:36,636 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:38,606 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:38,685 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:52,126 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:50:57,583 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:50:58,596 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:50:59,639 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:04,424 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:06,453 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:08,485 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:08,580 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:21,693 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:23,749 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:34,432 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:36,485 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:38,511 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:38,620 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:45,819 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:47,860 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:51:52,138 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:52:04,417 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:08,512 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:08,620 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:10,552 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:12,600 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:34,414 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:36,468 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:38,508 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:38,616 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:40,552 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:52:52,155 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:53:02,600 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:04,652 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:06,693 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:08,626 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:08,750 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:25,348 INFO [http-nio-53050-exec-6][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:53:27,671 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:29,700 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:34,428 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:36,450 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:37,031 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:53:38,476 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:38,572 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:51,722 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:53:52,162 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:53:53,753 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:04,409 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:05,333 INFO [http-nio-53050-exec-7][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:54:06,436 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:08,492 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:08,602 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:10,729 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:54:15,792 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:16,063 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:54:17,803 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:20,617 INFO [http-nio-53050-exec-10][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:54:34,424 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:36,463 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:38,486 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:38,596 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:40,518 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:42,513 INFO [http-nio-53050-exec-1][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:54:42,556 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:54:46,215 INFO [http-nio-53050-exec-2][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:54:52,175 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:55:04,428 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:06,468 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:08,590 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:10,541 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:18,873 INFO [http-nio-53050-exec-3][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:55:29,003 INFO [http-nio-53050-exec-4][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:55:32,590 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:34,636 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:36,673 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:38,031 INFO [http-nio-53050-exec-5][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:55:38,579 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:38,687 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:42,164 INFO [http-nio-53050-exec-6][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:55:52,177 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:55:57,641 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:55:59,677 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:04,426 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:06,453 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:08,484 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:08,591 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:21,724 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:23,781 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:34,431 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:36,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:38,485 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:38,563 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:45,843 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:47,874 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:56:52,184 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:57:04,435 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:06,465 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:08,504 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:08,596 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:10,548 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:12,577 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:34,428 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:36,484 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:38,502 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:38,580 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:40,551 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:57:52,189 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:58:02,588 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:04,608 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:06,630 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:08,594 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:08,672 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:10,695 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:26,653 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:28,708 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:33,555 INFO [http-nio-53050-exec-8][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:58:35,745 INFO [http-nio-53050-exec-9][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:58:36,443 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:37,039 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[ConsumerService][53050] 2022-06-29 01:58:38,455 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:38,564 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:42,096 INFO [http-nio-53050-exec-10][SecurityUtil.java:21] - 当前登录用户:LoginUser(tenantId=null, departmentId=null, payload={}, username=null, mobile=15378791984, userAuthorities={}, clientId=wanxin-p2p-web-h5)
+[ConsumerService][53050] 2022-06-29 01:58:50,762 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:58:52,214 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[ConsumerService][53050] 2022-06-29 01:58:52,809 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:04,414 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:06,462 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:08,519 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:08,611 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:14,837 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:16,861 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:34,408 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:36,425 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:38,483 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:38,610 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:40,526 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:42,573 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[ConsumerService][53050] 2022-06-29 01:59:52,219 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60

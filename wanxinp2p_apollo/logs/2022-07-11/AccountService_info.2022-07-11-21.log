@@ -1,0 +1,152 @@
+[AccountService][53030] 2022-07-11 21:04:01,492 INFO [main][DefaultApplicationProvider.java:85] - App ID is set to account-service by app.id property from System Property
+[AccountService][53030] 2022-07-11 21:04:01,513 INFO [main][DefaultServerProvider.java:108] - Environment is set to [dev] by JVM system property 'env'.
+[AccountService][53030] 2022-07-11 21:04:01,714 WARN [main][DefaultMetaServerProvider.java:39] - Could not find meta server address, because it is not available in neither (1) JVM system property 'apollo.meta', (2) OS env variable 'APOLLO_META' (3) property 'apollo.meta' from server.properties nor (4) property 'apollo.meta' from app.properties
+[AccountService][53030] 2022-07-11 21:04:01,764 INFO [main][MetaDomainConsts.java:93] - Located meta server address http://localhost:8080 for env DEV from com.ctrip.framework.apollo.core.internals.LegacyMetaServerProvider
+[AccountService][53030] 2022-07-11 21:04:08,006 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+[AccountService][53030] 2022-07-11 21:04:14,660 INFO [main][RepositoryConfigurationDelegate.java:244] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[AccountService][53030] 2022-07-11 21:04:14,665 INFO [main][RepositoryConfigurationDelegate.java:126] - Bootstrapping Spring Data repositories in DEFAULT mode.
+[AccountService][53030] 2022-07-11 21:04:14,789 INFO [main][RepositoryConfigurationDelegate.java:182] - Finished Spring Data repository scanning in 96ms. Found 0 repository interfaces.
+[AccountService][53030] 2022-07-11 21:04:14,850 INFO [main][RepositoryConfigurationDelegate.java:244] - Multiple Spring Data modules found, entering strict repository configuration mode!
+[AccountService][53030] 2022-07-11 21:04:14,854 INFO [main][RepositoryConfigurationDelegate.java:126] - Bootstrapping Spring Data repositories in DEFAULT mode.
+[AccountService][53030] 2022-07-11 21:04:14,980 INFO [main][RepositoryConfigurationDelegate.java:182] - Finished Spring Data repository scanning in 47ms. Found 0 repository interfaces.
+[AccountService][53030] 2022-07-11 21:04:15,806 WARN [main][EndpointId.java:135] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+[AccountService][53030] 2022-07-11 21:04:16,345 INFO [main][ConfigurationClassPostProcessor.java:380] - Cannot enhance @Configuration bean definition 'com.ctrip.framework.apollo.spring.boot.ApolloAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+[AccountService][53030] 2022-07-11 21:04:17,251 INFO [main][GenericScope.java:294] - BeanFactory id=4345df52-f211-3918-a911-b14b7743ce81
+[AccountService][53030] 2022-07-11 21:04:17,422 WARN [main][PropertySourcesDeducer.java:75] - Multiple PropertySourcesPlaceholderConfigurer beans registered [propertySourcesPlaceholderConfigurer, org.springframework.context.support.PropertySourcesPlaceholderConfigurer], falling back to Environment
+[AccountService][53030] 2022-07-11 21:04:17,778 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'com.alibaba.druid.spring.boot.autoconfigure.stat.DruidSpringAopConfiguration' of type [com.alibaba.druid.spring.boot.autoconfigure.stat.DruidSpringAopConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[AccountService][53030] 2022-07-11 21:04:18,222 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c01cf623] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[AccountService][53030] 2022-07-11 21:04:19,761 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'spring.datasource.druid-com.alibaba.druid.spring.boot.autoconfigure.properties.DruidStatProperties' of type [com.alibaba.druid.spring.boot.autoconfigure.properties.DruidStatProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[AccountService][53030] 2022-07-11 21:04:19,884 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'advisor' of type [org.springframework.aop.support.RegexpMethodPointcutAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[AccountService][53030] 2022-07-11 21:04:19,935 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$dc36f920] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[AccountService][53030] 2022-07-11 21:04:21,999 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 53030 (http)
+[AccountService][53030] 2022-07-11 21:04:22,103 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-53030"]
+[AccountService][53030] 2022-07-11 21:04:22,142 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[AccountService][53030] 2022-07-11 21:04:22,146 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+[AccountService][53030] 2022-07-11 21:04:22,182 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk1.8.0_161\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\Ruby26-x64\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\VanDyke Software\Clients\;E:\Anaconda;E:\Anaconda\Library\mingw-w64\bin;E:\Anaconda\Library\usr\bin;E:\Anaconda\Library\bin;E:\Anaconda\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\mysql-5.7.20-winx64\bin;C:\Program Files\dotnet\;E:\nodejs\;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;E:\spark-2.1.1-hadoop2.7\bin;D:\Android\Sdk\platform-tools;E:\TortoiseSVN\bin;E:\TortoiseSVN\bin;E:\Subversion\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\CMake\bin;C:\mingw64\bin;E:\scala-2.12.15\bin;C:\Program Files (x86)\scala\bin;E:\spark\bin;E:\spark-2.1.1-hadoop2.7\bin;E:\NetSarang\Xshell 7\;E:\NetSarang\Xftp 7\;C:\Program Files\Git\cmd;E:\apache-maven-3.6.3\bin;E:\jdk1.8.0_161\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;E:\IntelliJ IDEA\bin;;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Users\Administrator\.dotnet\tools;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;E:\Microsoft VS Code\bin;.]
+[AccountService][53030] 2022-07-11 21:04:23,237 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[AccountService][53030] 2022-07-11 21:04:23,238 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 15064 ms
+[AccountService][53030] 2022-07-11 21:04:24,058 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+[AccountService][53030] 2022-07-11 21:04:24,061 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[AccountService][53030] 2022-07-11 21:04:24,119 INFO [main][DynamicPropertyFactory.java:281] - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@595fed99
+[AccountService][53030] 2022-07-11 21:04:24,620 INFO [main][DruidDataSourceAutoConfigure.java:56] - Init DruidDataSource
+[AccountService][53030] 2022-07-11 21:04:27,434 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[AccountService][53030] 2022-07-11 21:04:44,066 INFO [main][AutowiredAnnotationBeanPostProcessor.java:342] - Inconsistent constructor declaration on bean with name 'hmilyAutoConfiguration': single autowire-marked constructor flagged as optional - this constructor is effectively required since there is no default constructor to fall back to: public org.dromara.hmily.spring.boot.starter.parent.configuration.HmilyAutoConfiguration$$EnhancerBySpringCGLIB$$ecb834af(org.dromara.hmily.spring.boot.starter.parent.config.HmilyConfigProperties)
+[AccountService][53030] 2022-07-11 21:04:45,305 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+[AccountService][53030] 2022-07-11 21:04:46,179 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+[AccountService][53030] 2022-07-11 21:04:46,253 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+[AccountService][53030] 2022-07-11 21:04:46,374 INFO [main][HmilyLogo.java:49] - 
+
+
+    __  __          _ __     
+   / / / /___ ___  (_) /_  __
+  / /_/ / __ `__ \/ / / / / /
+ / __  / / / / / / / / /_/ / 
+/_/ /_/_/ /_/ /_/_/_/\__, /  
+                    /____/   
+
+ :: Hmily :: (v2.0.0-RELEASE)
+
+[AccountService][53030] 2022-07-11 21:04:46,451 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[AccountService][53030] 2022-07-11 21:04:46,500 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+[AccountService][53030] 2022-07-11 21:04:46,500 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[AccountService][53030] 2022-07-11 21:04:47,038 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+[AccountService][53030] 2022-07-11 21:04:54,738 WARN [main][EurekaStarterDeprecationWarningAutoConfiguration.java:19] - spring-cloud-starter-eureka is deprecated as of Spring Cloud Netflix 1.4.0, please migrate to spring-cloud-starter-netflix-eureka
+[AccountService][53030] 2022-07-11 21:04:55,217 INFO [main][InstanceInfoFactory.java:71] - Setting initial instance status as: STARTING
+[AccountService][53030] 2022-07-11 21:04:55,396 INFO [main][DiscoveryClient.java:349] - Initializing Eureka in region us-east-1
+[AccountService][53030] 2022-07-11 21:05:00,880 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+[AccountService][53030] 2022-07-11 21:05:00,881 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+[AccountService][53030] 2022-07-11 21:05:01,461 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+[AccountService][53030] 2022-07-11 21:05:01,463 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+[AccountService][53030] 2022-07-11 21:05:02,581 INFO [main][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:05:06,329 INFO [main][DiscoveryClient.java:958] - Disable delta property : false
+[AccountService][53030] 2022-07-11 21:05:06,330 INFO [main][DiscoveryClient.java:959] - Single vip registry refresh property : null
+[AccountService][53030] 2022-07-11 21:05:06,333 INFO [main][DiscoveryClient.java:960] - Force full registry fetch : false
+[AccountService][53030] 2022-07-11 21:05:06,334 INFO [main][DiscoveryClient.java:961] - Application is null : false
+[AccountService][53030] 2022-07-11 21:05:06,339 INFO [main][DiscoveryClient.java:962] - Registered Applications size is zero : true
+[AccountService][53030] 2022-07-11 21:05:06,341 INFO [main][DiscoveryClient.java:964] - Application version is -1: true
+[AccountService][53030] 2022-07-11 21:05:06,343 INFO [main][DiscoveryClient.java:1047] - Getting all instance registry info from the eureka server
+[AccountService][53030] 2022-07-11 21:05:07,948 INFO [main][DiscoveryClient.java:1056] - The response status is 200
+[AccountService][53030] 2022-07-11 21:05:07,963 INFO [main][DiscoveryClient.java:1270] - Starting heartbeat executor: renew interval is: 30
+[AccountService][53030] 2022-07-11 21:05:07,976 INFO [main][InstanceInfoReplicator.java:60] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+[AccountService][53030] 2022-07-11 21:05:07,991 INFO [main][DiscoveryClient.java:449] - Discovery Client initialized at timestamp 1657544707988 with initial instances count: 1
+[AccountService][53030] 2022-07-11 21:05:08,001 INFO [main][EurekaServiceRegistry.java:42] - Registering application ACCOUNT-SERVICE with eureka with status UP
+[AccountService][53030] 2022-07-11 21:05:08,004 INFO [main][DiscoveryClient.java:1305] - Saw local status change event StatusChangeEvent [timestamp=1657544708004, current=UP, previous=STARTING]
+[AccountService][53030] 2022-07-11 21:05:08,010 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+[AccountService][53030] 2022-07-11 21:05:08,012 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:826] - DiscoveryClient_ACCOUNT-SERVICE/account-service:127.0.0.1:53030: registering service...
+[AccountService][53030] 2022-07-11 21:05:08,053 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+[AccountService][53030] 2022-07-11 21:05:08,156 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:835] - DiscoveryClient_ACCOUNT-SERVICE/account-service:127.0.0.1:53030 - registration status: 204
+[AccountService][53030] 2022-07-11 21:05:08,218 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+[AccountService][53030] 2022-07-11 21:05:08,713 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-53030"]
+[AccountService][53030] 2022-07-11 21:05:08,807 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 53030 (http) with context path '/account'
+[AccountService][53030] 2022-07-11 21:05:08,811 INFO [main][EurekaAutoServiceRegistration.java:141] - Updating port to 53030
+[AccountService][53030] 2022-07-11 21:05:08,831 INFO [main][StartupInfoLogger.java:59] - Started AccountServiceApplication in 82.132 seconds (JVM running for 89.91)
+[AccountService][53030] 2022-07-11 21:05:13,753 INFO [RMI TCP Connection(8)-172.26.144.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[AccountService][53030] 2022-07-11 21:05:13,754 INFO [RMI TCP Connection(8)-172.26.144.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+[AccountService][53030] 2022-07-11 21:05:13,823 INFO [RMI TCP Connection(8)-172.26.144.1][FrameworkServlet.java:546] - Completed initialization in 67 ms
+[AccountService][53030] 2022-07-11 21:05:15,217 INFO [RMI TCP Connection(7)-172.26.144.1][EpollProvider.java:68] - Starting without optional epoll library
+[AccountService][53030] 2022-07-11 21:05:15,261 INFO [RMI TCP Connection(7)-172.26.144.1][KqueueProvider.java:70] - Starting without optional kqueue library
+[AccountService][53030] 2022-07-11 21:05:16,389 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:06:16,467 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:07:16,484 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:08:16,488 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:09:16,497 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:10:06,382 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:10:16,503 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:11:16,506 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:12:16,518 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:13:16,536 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:14:16,549 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:15:06,393 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:15:16,565 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:16:16,569 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:17:16,572 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:18:16,589 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:19:16,600 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:20:06,395 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:20:16,604 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:21:16,607 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:22:16,613 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:23:16,619 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:24:16,634 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:25:06,406 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:25:16,642 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:26:16,658 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:27:16,667 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:28:16,672 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:29:16,687 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:30:06,409 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:30:16,698 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:31:16,709 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:32:16,716 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:33:16,723 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:34:16,727 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:35:06,411 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:35:16,739 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:36:16,751 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:37:16,758 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:38:16,766 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:39:16,779 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:40:06,416 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:40:16,795 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:41:16,804 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:42:16,818 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:43:16,832 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:44:16,844 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:45:06,423 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:45:16,859 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:46:16,862 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:47:16,870 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:48:16,876 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:49:16,886 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:50:06,433 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:50:16,893 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:51:16,905 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:52:16,909 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:53:16,916 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:54:16,921 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:55:06,449 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 21:55:16,940 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:56:16,949 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:57:16,964 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:58:16,973 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 21:59:16,989 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60

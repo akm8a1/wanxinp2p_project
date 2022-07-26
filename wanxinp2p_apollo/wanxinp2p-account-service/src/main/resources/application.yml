@@ -1,0 +1,26 @@
+# -Denv=dev -Dapollo.cluster=DEFAULT -Dserver.port=53050
+#app.id apollo中应用的id,和子项目app.id对应，用这个来对应配置和项目
+app:
+  id: account-service
+#apollo启动配置 apollo.bootstrap.enabled表示项目启动就用apollo进行配置
+#apollo.bootstrap.namespaces表示了这个项目用到的namespace
+apollo:
+  bootstrap:
+    enabled: true
+    namespaces: application,micro_service.spring-boot-http,micro_service.spring-eureka,micro_service.spring-hystrix,micro_service.spring-ribbon,micro_service.spring-boot-redis,micro_service.mybatis-plus,micro_service.spring-boot-druid,micro_service.swagger,micro_service.spring-cloud-hmily
+
+#eureka配置
+spring:
+  application:
+    name: account-service
+
+logging:
+  config: classpath:log4j2-dev.xml
+
+
+
+
+
+
+
+

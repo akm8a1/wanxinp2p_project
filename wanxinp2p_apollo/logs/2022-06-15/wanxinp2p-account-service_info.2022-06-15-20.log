@@ -1,0 +1,96 @@
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:00:35,245 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:01:35,252 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:02:21,276 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:02:35,252 INFO [lettuce-eventExecutorLoop-1-4][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:02:35,269 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:02:35,275 INFO [lettuce-nioEventLoop-4-2][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:03:35,284 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:04:35,299 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:05:35,315 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:06:35,333 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:07:21,281 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:07:35,339 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:07:35,355 INFO [lettuce-eventExecutorLoop-1-6][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:07:35,363 INFO [lettuce-nioEventLoop-4-3][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:08:35,353 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:09:35,355 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:10:35,359 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:11:35,372 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:12:21,291 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:12:35,387 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:12:35,452 INFO [lettuce-eventExecutorLoop-1-1][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:12:35,460 INFO [lettuce-nioEventLoop-4-4][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:13:35,399 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:14:35,407 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:15:35,420 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:16:35,430 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:17:21,302 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:17:35,448 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:17:35,556 INFO [lettuce-eventExecutorLoop-1-2][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:17:35,564 INFO [lettuce-nioEventLoop-4-5][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:18:35,459 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:19:35,472 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:20:35,489 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:21:35,494 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:22:21,306 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:22:35,502 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:22:35,656 INFO [lettuce-eventExecutorLoop-1-4][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:22:35,661 INFO [lettuce-nioEventLoop-4-6][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:23:35,516 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:24:35,532 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:25:35,536 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:26:35,553 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:27:21,321 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:27:35,561 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:27:35,752 INFO [lettuce-eventExecutorLoop-1-6][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:27:35,756 INFO [lettuce-nioEventLoop-4-7][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:28:35,567 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:29:35,577 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:30:35,593 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:31:35,610 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:32:21,336 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:32:35,626 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:32:35,857 INFO [lettuce-eventExecutorLoop-1-1][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:32:35,863 INFO [lettuce-nioEventLoop-4-8][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:33:35,636 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:34:35,649 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:35:35,660 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:36:35,674 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:37:21,342 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:37:35,686 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:37:36,057 INFO [lettuce-eventExecutorLoop-1-2][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:37:36,065 INFO [lettuce-nioEventLoop-4-1][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:38:35,695 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:39:35,712 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:40:35,726 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:41:35,737 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:42:21,357 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:42:35,747 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:42:36,152 INFO [lettuce-eventExecutorLoop-1-4][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:42:36,159 INFO [lettuce-nioEventLoop-4-2][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:43:35,752 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:44:35,769 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:45:35,785 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:46:35,800 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:47:21,366 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:47:35,811 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:47:36,252 INFO [lettuce-eventExecutorLoop-1-6][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:47:36,256 INFO [lettuce-nioEventLoop-4-3][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:48:35,820 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:49:35,831 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:50:35,846 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:51:35,856 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:52:21,380 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:52:35,871 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:52:36,352 INFO [lettuce-eventExecutorLoop-1-1][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:52:36,362 INFO [lettuce-nioEventLoop-4-4][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:53:35,882 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:54:35,896 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:55:35,915 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:56:35,933 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:57:21,388 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:57:35,939 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:57:36,456 INFO [lettuce-eventExecutorLoop-1-2][AbstractInternalLogger.java:173] - Reconnecting, last destination was /8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:57:36,461 INFO [lettuce-nioEventLoop-4-5][ReconnectionHandler.java:177] - Reconnected to 8.130.168.209:6379
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:58:35,945 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[wanxinp2p-account-service][${env:SERVER_PORT}] 2022-06-15 20:59:35,952 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60

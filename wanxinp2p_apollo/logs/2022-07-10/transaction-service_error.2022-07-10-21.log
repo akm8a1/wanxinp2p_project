@@ -1,0 +1,1 @@
+[transaction-service][53060] 2022-07-10 21:54:40,487 ERROR [http-nio-53060-exec-8][GlobalExceptionHandler.java:42] - 系统异常:Read timed out executing POST http://depository-agent-service/depository-agent/l/confirm-loan

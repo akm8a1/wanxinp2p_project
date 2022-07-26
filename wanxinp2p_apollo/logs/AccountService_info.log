@@ -1,0 +1,12 @@
+[AccountService][53030] 2022-07-11 22:00:06,466 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 22:00:16,996 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:01:17,002 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:02:17,005 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:03:17,021 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:04:17,038 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:05:06,479 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[AccountService][53030] 2022-07-11 22:05:17,045 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:06:17,056 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:07:17,072 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:08:17,087 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[AccountService][53030] 2022-07-11 22:09:17,103 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60

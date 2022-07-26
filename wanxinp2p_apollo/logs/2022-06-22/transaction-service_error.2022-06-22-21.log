@@ -1,0 +1,11 @@
+[transaction-service][53060] 2022-06-22 21:20:32,369 ERROR [http-nio-53060-exec-1][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:20:37,566 ERROR [http-nio-53060-exec-4][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:24:48,834 ERROR [http-nio-53060-exec-3][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:24:57,339 ERROR [http-nio-53060-exec-5][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:24:59,341 ERROR [http-nio-53060-exec-9][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:25:04,035 ERROR [http-nio-53060-exec-1][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:25:27,476 ERROR [http-nio-53060-exec-4][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:27:08,636 ERROR [http-nio-53060-exec-7][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:27:15,696 ERROR [http-nio-53060-exec-5][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:29:59,337 ERROR [http-nio-53060-exec-1][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-06-22 21:31:01,461 ERROR [http-nio-53060-exec-3][GlobalExceptionHandler.java:42] - 系统异常:null

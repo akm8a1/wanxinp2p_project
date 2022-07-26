@@ -1,0 +1,477 @@
+[Repayment-Service][53080] 2022-07-11 21:49:07,930 INFO [main][DefaultApplicationProvider.java:85] - App ID is set to repayment-service by app.id property from System Property
+[Repayment-Service][53080] 2022-07-11 21:49:07,935 INFO [main][DefaultServerProvider.java:108] - Environment is set to [dev] by JVM system property 'env'.
+[Repayment-Service][53080] 2022-07-11 21:49:07,992 WARN [main][DefaultMetaServerProvider.java:39] - Could not find meta server address, because it is not available in neither (1) JVM system property 'apollo.meta', (2) OS env variable 'APOLLO_META' (3) property 'apollo.meta' from server.properties nor (4) property 'apollo.meta' from app.properties
+[Repayment-Service][53080] 2022-07-11 21:49:07,999 INFO [main][MetaDomainConsts.java:93] - Located meta server address http://localhost:8080 for env DEV from com.ctrip.framework.apollo.core.internals.LegacyMetaServerProvider
+[Repayment-Service][53080] 2022-07-11 21:49:09,871 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-11 21:49:10,889 WARN [main][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1 [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:10,896 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-11 21:49:11,904 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:11,909 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-11 21:49:12,929 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-11 21:49:13,944 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:13,950 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-11 21:49:14,970 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:14,971 WARN [main][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.LocalFileConfigRepository, reason: Load config from local config failed! [Cause: Cannot read from local cache file C:\opt\data\repayment-service\config-cache\repayment-service+DEFAULT+application.properties]
+[Repayment-Service][53080] 2022-07-11 21:49:14,975 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-11 21:49:15,983 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:15,983 WARN [main][DefaultConfig.java:61] - Init Apollo Local Config failed - namespace: application, reason: Load config from local config failed! [Cause: Cannot read from local cache file C:\opt\data\repayment-service\config-cache\repayment-service+DEFAULT+application.properties].
+[Repayment-Service][53080] 2022-07-11 21:49:16,009 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-11 21:49:17,016 WARN [main][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1 [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:17,023 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-11 21:49:18,029 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1 [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:18,035 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-11 21:49:19,045 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1 [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:19,046 WARN [main][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.LocalFileConfigRepository, reason: Load config from local config failed! [Cause: Cannot read from local cache file C:\opt\data\repayment-service\config-cache\repayment-service+DEFAULT+micro_service.spring-cloud-feign.properties]
+[Repayment-Service][53080] 2022-07-11 21:49:19,052 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-11 21:49:20,071 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1 [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:49:20,072 WARN [main][DefaultConfig.java:61] - Init Apollo Local Config failed - namespace: micro_service.spring-cloud-feign, reason: Load config from local config failed! [Cause: Cannot read from local cache file C:\opt\data\repayment-service\config-cache\repayment-service+DEFAULT+micro_service.spring-cloud-feign.properties].
+[Repayment-Service][53080] 2022-07-11 21:49:20,117 WARN [main][DefaultConfig.java:95] - Could not load config for namespace application from Apollo, please check whether the configs are released in Apollo! Return default value now!
+[Repayment-Service][53080] 2022-07-11 21:49:20,117 WARN [main][DefaultConfig.java:95] - Could not load config for namespace micro_service.spring-cloud-feign from Apollo, please check whether the configs are released in Apollo! Return default value now!
+[Repayment-Service][53080] 2022-07-11 21:49:20,118 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+[Repayment-Service][53080] 2022-07-11 21:49:21,906 INFO [main][RepositoryConfigurationDelegate.java:126] - Bootstrapping Spring Data repositories in DEFAULT mode.
+[Repayment-Service][53080] 2022-07-11 21:49:21,950 INFO [main][RepositoryConfigurationDelegate.java:182] - Finished Spring Data repository scanning in 31ms. Found 0 repository interfaces.
+[Repayment-Service][53080] 2022-07-11 21:49:22,145 WARN [main][EndpointId.java:135] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+[Repayment-Service][53080] 2022-07-11 21:49:22,472 INFO [main][GenericScope.java:294] - BeanFactory id=e3e73018-f87b-3873-a7cd-42deb0d29bb4
+[Repayment-Service][53080] 2022-07-11 21:49:22,593 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'com.alibaba.druid.spring.boot.autoconfigure.stat.DruidSpringAopConfiguration' of type [com.alibaba.druid.spring.boot.autoconfigure.stat.DruidSpringAopConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:22,603 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.apache.rocketmq.spring.autoconfigure.RocketMQAutoConfiguration' of type [org.apache.rocketmq.spring.autoconfigure.RocketMQAutoConfiguration$$EnhancerBySpringCGLIB$$3a0a2ee0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:22,618 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'rocketmq-org.apache.rocketmq.spring.autoconfigure.RocketMQProperties' of type [org.apache.rocketmq.spring.autoconfigure.RocketMQProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,300 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'defaultMQProducer' of type [org.apache.rocketmq.client.producer.DefaultMQProducer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,306 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration$$EnhancerBySpringCGLIB$$6d079f75] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,313 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration$$EnhancerBySpringCGLIB$$1f54618e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,317 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration$$EnhancerBySpringCGLIB$$da6b477d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,326 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'spring.jackson-org.springframework.boot.autoconfigure.jackson.JacksonProperties' of type [org.springframework.boot.autoconfigure.jackson.JacksonProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,329 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'standardJacksonObjectMapperBuilderCustomizer' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration$StandardJackson2ObjectMapperBuilderCustomizer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,337 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration$$EnhancerBySpringCGLIB$$136beab] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,347 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'parameterNamesModule' of type [com.fasterxml.jackson.module.paramnames.ParameterNamesModule] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,349 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$$EnhancerBySpringCGLIB$$4f133d04] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,401 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'jsonComponentModule' of type [org.springframework.boot.jackson.JsonComponentModule] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,402 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.data.web.config.SpringDataJacksonConfiguration' of type [org.springframework.data.web.config.SpringDataJacksonConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,408 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'jacksonGeoModule' of type [org.springframework.data.geo.GeoModule] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,409 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.data.mongodb.config.GeoJsonConfiguration' of type [org.springframework.data.mongodb.config.GeoJsonConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,421 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'geoJsonModule' of type [org.springframework.data.mongodb.core.geo.GeoJsonModule] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,426 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'jacksonObjectMapperBuilder' of type [org.springframework.http.converter.json.Jackson2ObjectMapperBuilder] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:24,459 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'jacksonObjectMapper' of type [com.fasterxml.jackson.databind.ObjectMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:29,201 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'rocketMQTemplate' of type [org.apache.rocketmq.spring.core.RocketMQTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:29,204 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'transactionHandlerRegistry' of type [org.apache.rocketmq.spring.config.TransactionHandlerRegistry] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:29,295 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$11741fe4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:29,556 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'spring.datasource.druid-com.alibaba.druid.spring.boot.autoconfigure.properties.DruidStatProperties' of type [com.alibaba.druid.spring.boot.autoconfigure.properties.DruidStatProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:29,578 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'advisor' of type [org.springframework.aop.support.RegexpMethodPointcutAdvisor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:29,599 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$2d8e22e1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[Repayment-Service][53080] 2022-07-11 21:49:30,129 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 53080 (http)
+[Repayment-Service][53080] 2022-07-11 21:49:30,159 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-53080"]
+[Repayment-Service][53080] 2022-07-11 21:49:30,174 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[Repayment-Service][53080] 2022-07-11 21:49:30,175 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+[Repayment-Service][53080] 2022-07-11 21:49:30,187 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk1.8.0_161\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\Ruby26-x64\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\VanDyke Software\Clients\;E:\Anaconda;E:\Anaconda\Library\mingw-w64\bin;E:\Anaconda\Library\usr\bin;E:\Anaconda\Library\bin;E:\Anaconda\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\mysql-5.7.20-winx64\bin;C:\Program Files\dotnet\;E:\nodejs\;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;E:\spark-2.1.1-hadoop2.7\bin;D:\Android\Sdk\platform-tools;E:\TortoiseSVN\bin;E:\TortoiseSVN\bin;E:\Subversion\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\CMake\bin;C:\mingw64\bin;E:\scala-2.12.15\bin;C:\Program Files (x86)\scala\bin;E:\spark\bin;E:\spark-2.1.1-hadoop2.7\bin;E:\NetSarang\Xshell 7\;E:\NetSarang\Xftp 7\;C:\Program Files\Git\cmd;E:\apache-maven-3.6.3\bin;E:\jdk1.8.0_161\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;E:\IntelliJ IDEA\bin;;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Users\Administrator\.dotnet\tools;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;E:\Microsoft VS Code\bin;.]
+[Repayment-Service][53080] 2022-07-11 21:49:30,436 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[Repayment-Service][53080] 2022-07-11 21:49:30,436 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 10296 ms
+[Repayment-Service][53080] 2022-07-11 21:49:30,653 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+[Repayment-Service][53080] 2022-07-11 21:49:30,654 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[Repayment-Service][53080] 2022-07-11 21:49:30,674 INFO [main][DynamicPropertyFactory.java:281] - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@64ec1459
+[Repayment-Service][53080] 2022-07-11 21:49:30,846 INFO [main][DruidDataSourceAutoConfigure.java:56] - Init DruidDataSource
+[Repayment-Service][53080] 2022-07-11 21:49:31,271 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[Repayment-Service][53080] 2022-07-11 21:49:34,365 INFO [main][AutowiredAnnotationBeanPostProcessor.java:342] - Inconsistent constructor declaration on bean with name 'hmilyAutoConfiguration': single autowire-marked constructor flagged as optional - this constructor is effectively required since there is no default constructor to fall back to: public org.dromara.hmily.spring.boot.starter.parent.configuration.HmilyAutoConfiguration$$EnhancerBySpringCGLIB$$3e0f5e70(org.dromara.hmily.spring.boot.starter.parent.config.HmilyConfigProperties)
+[Repayment-Service][53080] 2022-07-11 21:49:35,271 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+[Repayment-Service][53080] 2022-07-11 21:49:35,474 INFO [main][HikariDataSource.java:110] - HikariPool-1 - Starting...
+[Repayment-Service][53080] 2022-07-11 21:49:35,507 INFO [main][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+[Repayment-Service][53080] 2022-07-11 21:49:35,542 INFO [main][HmilyLogo.java:49] - 
+
+
+    __  __          _ __     
+   / / / /___ ___  (_) /_  __
+  / /_/ / __ `__ \/ / / / / /
+ / __  / / / / / / / / /_/ / 
+/_/ /_/_/ /_/ /_/_/_/\__, /  
+                    /____/   
+
+ :: Hmily :: (v2.0.0-RELEASE)
+
+[Repayment-Service][53080] 2022-07-11 21:49:35,571 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[Repayment-Service][53080] 2022-07-11 21:49:35,594 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+[Repayment-Service][53080] 2022-07-11 21:49:35,595 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[Repayment-Service][53080] 2022-07-11 21:49:35,790 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+[Repayment-Service][53080] 2022-07-11 21:49:36,435 INFO [main][StdSchedulerFactory.java:1208] - Using default implementation for ThreadExecutor
+[Repayment-Service][53080] 2022-07-11 21:49:36,453 INFO [main][SchedulerSignalerImpl.java:61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+[Repayment-Service][53080] 2022-07-11 21:49:36,453 INFO [main][QuartzScheduler.java:229] - Quartz Scheduler v.2.3.0 created.
+[Repayment-Service][53080] 2022-07-11 21:49:36,455 INFO [main][RAMJobStore.java:155] - RAMJobStore initialized.
+[Repayment-Service][53080] 2022-07-11 21:49:36,455 INFO [main][QuartzScheduler.java:294] - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[Repayment-Service][53080] 2022-07-11 21:49:36,456 INFO [main][StdSchedulerFactory.java:1362] - Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+[Repayment-Service][53080] 2022-07-11 21:49:36,456 INFO [main][StdSchedulerFactory.java:1366] - Quartz scheduler version: 2.3.0
+[Repayment-Service][53080] 2022-07-11 21:49:36,456 INFO [main][QuartzScheduler.java:2287] - JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@903c13
+[Repayment-Service][53080] 2022-07-11 21:49:38,381 WARN [main][EurekaStarterDeprecationWarningAutoConfiguration.java:19] - spring-cloud-starter-eureka is deprecated as of Spring Cloud Netflix 1.4.0, please migrate to spring-cloud-starter-netflix-eureka
+[Repayment-Service][53080] 2022-07-11 21:49:40,124 INFO [main][DefaultRocketMQListenerContainer.java:243] - running container: DefaultRocketMQListenerContainer{consumerGroup='CID_START_REPAYMENT', nameServer='127.0.0.1:9876', topic='TP_START_REPAYMENT', consumeMode=CONCURRENTLY, selectorType=TAG, selectorExpression='*', messageModel=CLUSTERING}
+[Repayment-Service][53080] 2022-07-11 21:49:40,124 INFO [main][ListenerContainerConfiguration.java:107] - Register the listener to container, listenerBeanName:startRepaymentMessageConsumer, containerBeanName:org.apache.rocketmq.spring.support.DefaultRocketMQListenerContainer_1
+[Repayment-Service][53080] 2022-07-11 21:49:40,261 INFO [main][InstanceInfoFactory.java:71] - Setting initial instance status as: STARTING
+[Repayment-Service][53080] 2022-07-11 21:49:40,325 INFO [main][DiscoveryClient.java:349] - Initializing Eureka in region us-east-1
+[Repayment-Service][53080] 2022-07-11 21:49:41,451 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+[Repayment-Service][53080] 2022-07-11 21:49:41,452 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+[Repayment-Service][53080] 2022-07-11 21:49:41,662 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+[Repayment-Service][53080] 2022-07-11 21:49:41,663 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+[Repayment-Service][53080] 2022-07-11 21:49:42,003 INFO [main][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-11 21:49:42,890 INFO [main][DiscoveryClient.java:958] - Disable delta property : false
+[Repayment-Service][53080] 2022-07-11 21:49:42,891 INFO [main][DiscoveryClient.java:959] - Single vip registry refresh property : null
+[Repayment-Service][53080] 2022-07-11 21:49:42,891 INFO [main][DiscoveryClient.java:960] - Force full registry fetch : false
+[Repayment-Service][53080] 2022-07-11 21:49:42,891 INFO [main][DiscoveryClient.java:961] - Application is null : false
+[Repayment-Service][53080] 2022-07-11 21:49:42,891 INFO [main][DiscoveryClient.java:962] - Registered Applications size is zero : true
+[Repayment-Service][53080] 2022-07-11 21:49:42,891 INFO [main][DiscoveryClient.java:964] - Application version is -1: true
+[Repayment-Service][53080] 2022-07-11 21:49:42,892 INFO [main][DiscoveryClient.java:1047] - Getting all instance registry info from the eureka server
+[Repayment-Service][53080] 2022-07-11 21:49:43,216 INFO [main][DiscoveryClient.java:1056] - The response status is 200
+[Repayment-Service][53080] 2022-07-11 21:49:43,221 INFO [main][DiscoveryClient.java:1270] - Starting heartbeat executor: renew interval is: 30
+[Repayment-Service][53080] 2022-07-11 21:49:43,227 INFO [main][InstanceInfoReplicator.java:60] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+[Repayment-Service][53080] 2022-07-11 21:49:43,233 INFO [main][DiscoveryClient.java:449] - Discovery Client initialized at timestamp 1657547383231 with initial instances count: 5
+[Repayment-Service][53080] 2022-07-11 21:49:43,236 INFO [main][EurekaServiceRegistry.java:42] - Registering application REPAYMENT-SERVICE with eureka with status UP
+[Repayment-Service][53080] 2022-07-11 21:49:43,237 INFO [main][DiscoveryClient.java:1305] - Saw local status change event StatusChangeEvent [timestamp=1657547383237, current=UP, previous=STARTING]
+[Repayment-Service][53080] 2022-07-11 21:49:43,240 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+[Repayment-Service][53080] 2022-07-11 21:49:43,242 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:826] - DiscoveryClient_REPAYMENT-SERVICE/repayment-service:192.168.1.4:53080: registering service...
+[Repayment-Service][53080] 2022-07-11 21:49:43,261 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+[Repayment-Service][53080] 2022-07-11 21:49:43,308 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:835] - DiscoveryClient_REPAYMENT-SERVICE/repayment-service:192.168.1.4:53080 - registration status: 204
+[Repayment-Service][53080] 2022-07-11 21:49:43,316 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+[Repayment-Service][53080] 2022-07-11 21:49:43,486 INFO [main][CachingOperationNameGenerator.java:40] - Generating unique operation named: handleUsingGET_1
+[Repayment-Service][53080] 2022-07-11 21:49:43,490 INFO [main][CachingOperationNameGenerator.java:40] - Generating unique operation named: handleUsingGET_2
+[Repayment-Service][53080] 2022-07-11 21:49:43,492 INFO [main][CachingOperationNameGenerator.java:40] - Generating unique operation named: handleUsingGET_3
+[Repayment-Service][53080] 2022-07-11 21:49:43,566 INFO [main][SchedulerFactoryBean.java:726] - Starting Quartz Scheduler now
+[Repayment-Service][53080] 2022-07-11 21:49:43,566 INFO [main][QuartzScheduler.java:547] - Scheduler quartzScheduler_$_NON_CLUSTERED started.
+[Repayment-Service][53080] 2022-07-11 21:49:43,586 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-53080"]
+[Repayment-Service][53080] 2022-07-11 21:49:43,621 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 53080 (http) with context path '/repayment'
+[Repayment-Service][53080] 2022-07-11 21:49:43,622 INFO [main][EurekaAutoServiceRegistration.java:141] - Updating port to 53080
+[Repayment-Service][53080] 2022-07-11 21:49:43,625 INFO [main][StartupInfoLogger.java:59] - Started RepaymentService in 42.302 seconds (JVM running for 45.964)
+[Repayment-Service][53080] 2022-07-11 21:49:45,648 INFO [RMI TCP Connection(2)-172.26.144.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[Repayment-Service][53080] 2022-07-11 21:49:45,648 INFO [RMI TCP Connection(2)-172.26.144.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+[Repayment-Service][53080] 2022-07-11 21:49:45,670 INFO [RMI TCP Connection(2)-172.26.144.1][FrameworkServlet.java:546] - Completed initialization in 21 ms
+[Repayment-Service][53080] 2022-07-11 21:50:05,554 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:50:11,981 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-11 21:50:13,001 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-11 21:50:14,025 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:51:05,587 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:52:05,596 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:53:05,613 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:54:05,618 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:54:10,905 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-11 21:54:11,916 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:54:17,170 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-11 21:54:18,185 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:54:42,909 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-11 21:55:05,629 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:56:05,643 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:56:24,638 INFO [ConsumeMessageThread_2][StartRepaymentMessageConsumer.java:23] - Transaction-Service消费消息:{"project":{"amount":5200.00,"annualRate":0.00,"borrowerAnnualRate":0.05,"commissionAnnualRate":0.05,"consumerId":1001,"createDate":"2022-07-10 23:50:11","description":"个人生活消费","id":1546159859840573442,"isAssignment":0,"modifyDate":"2022-07-10 23:54:06","name":"罗锄乘先生第1次借款","period":360,"projectNo":"PRO_41F575BB23B54E97926DD0561BEE12C0","projectStatus":"REPAYING","repaymentWay":"FIXED_REPAYMENT","requestNo":"REQ_6BAF29EF792C4C2A9084BC56AC13C712","status":1,"type":"NEW","userNo":"USR_3525C3F56E36416B9FA7696619E2F96Y"},"projectWithTendersDTO":{"commissionBorrowerAnnualRate":0.02,"commissionInvestorAnnualRate":0.03,"project":{"amount":5200.00,"annualRate":0.00,"borrowerAnnualRate":0.05,"commissionAnnualRate":0.05,"consumerId":1001,"createDate":"2022-07-10 23:50:11","description":"个人生活消费","id":1546159859840573442,"isAssignment":0,"name":"罗锄乘先生第1次借款","period":360,"projectNo":"PRO_41F575BB23B54E97926DD0561BEE12C0","projectStatus":"REPAYING","repaymentWay":"FIXED_REPAYMENT","requestNo":"REQ_6BAF29EF792C4C2A9084BC56AC13C712","risk":"B","status":1,"type":"NEW","userNo":"USR_3525C3F56E36416B9FA7696619E2F96Y"},"tenders":[{"amount":5200,"consumerId":1002,"consumerUsername":"15378791982","createDate":"2022-07-10 23:54:06","id":1546160841626476545,"projectAnnualRate":0.00,"projectId":1546159859840573442,"projectNo":"罗锄乘先生第1次借款","projectPeriod":360,"requestNo":"REQ_7567D04AA203492FB62C12FC3DF1D257","status":1,"tenderStatus":"LOAN","userNo":"USR_3525C3F56E36416B9FA7696619E2F01Y"}]}}
+[Repayment-Service][53080] 2022-07-11 21:56:24,637 INFO [ConsumeMessageThread_1][StartRepaymentMessageConsumer.java:23] - Transaction-Service消费消息:{"project":{"amount":5200.00,"annualRate":0.00,"borrowerAnnualRate":0.05,"commissionAnnualRate":0.05,"consumerId":1001,"createDate":"2022-07-10 23:50:11","description":"个人生活消费","id":1546159859840573442,"isAssignment":0,"modifyDate":"2022-07-10 23:54:06","name":"罗锄乘先生第1次借款","period":360,"projectNo":"PRO_41F575BB23B54E97926DD0561BEE12C0","projectStatus":"REPAYING","repaymentWay":"FIXED_REPAYMENT","requestNo":"REQ_6BAF29EF792C4C2A9084BC56AC13C712","status":1,"type":"NEW","userNo":"USR_3525C3F56E36416B9FA7696619E2F96Y"},"projectWithTendersDTO":{"commissionBorrowerAnnualRate":0.02,"commissionInvestorAnnualRate":0.03,"project":{"amount":5200.00,"annualRate":0.00,"borrowerAnnualRate":0.05,"commissionAnnualRate":0.05,"consumerId":1001,"createDate":"2022-07-10 23:50:11","description":"个人生活消费","id":1546159859840573442,"isAssignment":0,"name":"罗锄乘先生第1次借款","period":360,"projectNo":"PRO_41F575BB23B54E97926DD0561BEE12C0","projectStatus":"REPAYING","repaymentWay":"FIXED_REPAYMENT","requestNo":"REQ_6BAF29EF792C4C2A9084BC56AC13C712","risk":"B","status":1,"type":"NEW","userNo":"USR_3525C3F56E36416B9FA7696619E2F96Y"},"tenders":[{"amount":5200,"consumerId":1002,"consumerUsername":"15378791982","createDate":"2022-07-10 23:54:06","id":1546160841626476545,"projectAnnualRate":0.00,"projectId":1546159859840573442,"projectNo":"罗锄乘先生第1次借款","projectPeriod":360,"requestNo":"REQ_7567D04AA203492FB62C12FC3DF1D257","status":1,"tenderStatus":"LOAN","userNo":"USR_3525C3F56E36416B9FA7696619E2F01Y"}]}}
+[Repayment-Service][53080] 2022-07-11 21:56:24,860 ERROR [ConsumeMessageThread_2][Log4j2Filter.java:152] - {conn-10004, pstmt-20005} execute error. INSERT INTO repayment_plan  ( ID,
+CONSUMER_ID,
+USER_NO,
+PROJECT_ID,
+PROJECT_NO,
+NUMBER_OF_PERIODS,
+INTEREST,
+PRINCIPAL,
+AMOUNT,
+SHOULD_REPAYMENT_DATE,
+REPAYMENT_STATUS,
+CREATE_DATE,
+COMMISSION )  VALUES  ( ?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+? )
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3409)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.wall.WallFilter.preparedStatement_execute(WallFilter.java:627)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.filter.FilterAdapter.preparedStatement_execute(FilterAdapter.java:1081)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.execute(PreparedStatementProxyImpl.java:167)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy218.update(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PerformanceInterceptor.intercept(PerformanceInterceptor.java:172)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy218.update(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy155.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:64)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:61)
+	at com.sun.proxy.$Proxy156.insert(Unknown Source)
+	at com.liu.wanxinp2p.repayment.service.RepaymentServiceImpl.saveRepaymentPlan(RepaymentServiceImpl.java:167)
+	at com.liu.wanxinp2p.repayment.service.RepaymentServiceImpl.startRepayment(RepaymentServiceImpl.java:63)
+	at com.liu.wanxinp2p.repayment.message.StartRepaymentMessageConsumer.onMessage(StartRepaymentMessageConsumer.java:28)
+	at com.liu.wanxinp2p.repayment.message.StartRepaymentMessageConsumer.onMessage(StartRepaymentMessageConsumer.java:13)
+	at org.apache.rocketmq.spring.support.DefaultRocketMQListenerContainer$DefaultMessageListenerConcurrently.consumeMessage(DefaultRocketMQListenerContainer.java:308)
+	at org.apache.rocketmq.client.impl.consumer.ConsumeMessageConcurrentlyService$ConsumeRequest.run(ConsumeMessageConcurrentlyService.java:417)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[Repayment-Service][53080] 2022-07-11 21:56:24,860 ERROR [ConsumeMessageThread_1][Log4j2Filter.java:152] - {conn-10005, pstmt-20004} execute error. INSERT INTO repayment_plan  ( ID,
+CONSUMER_ID,
+USER_NO,
+PROJECT_ID,
+PROJECT_NO,
+NUMBER_OF_PERIODS,
+INTEREST,
+PRINCIPAL,
+AMOUNT,
+SHOULD_REPAYMENT_DATE,
+REPAYMENT_STATUS,
+CREATE_DATE,
+COMMISSION )  VALUES  ( ?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+?,
+? )
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3409)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.wall.WallFilter.preparedStatement_execute(WallFilter.java:627)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.filter.FilterAdapter.preparedStatement_execute(FilterAdapter.java:1081)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.execute(PreparedStatementProxyImpl.java:167)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy218.update(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PerformanceInterceptor.intercept(PerformanceInterceptor.java:172)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy218.update(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy155.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:64)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:61)
+	at com.sun.proxy.$Proxy156.insert(Unknown Source)
+	at com.liu.wanxinp2p.repayment.service.RepaymentServiceImpl.saveRepaymentPlan(RepaymentServiceImpl.java:167)
+	at com.liu.wanxinp2p.repayment.service.RepaymentServiceImpl.startRepayment(RepaymentServiceImpl.java:63)
+	at com.liu.wanxinp2p.repayment.message.StartRepaymentMessageConsumer.onMessage(StartRepaymentMessageConsumer.java:28)
+	at com.liu.wanxinp2p.repayment.message.StartRepaymentMessageConsumer.onMessage(StartRepaymentMessageConsumer.java:13)
+	at org.apache.rocketmq.spring.support.DefaultRocketMQListenerContainer$DefaultMessageListenerConcurrently.consumeMessage(DefaultRocketMQListenerContainer.java:308)
+	at org.apache.rocketmq.client.impl.consumer.ConsumeMessageConcurrentlyService$ConsumeRequest.run(ConsumeMessageConcurrentlyService.java:417)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[Repayment-Service][53080] 2022-07-11 21:56:24,942 WARN [ConsumeMessageThread_2][DefaultRocketMQListenerContainer.java:312] - consume message failed. messageExt:MessageExt [queueId=0, storeSize=1983, queueOffset=30, sysFlag=8, bornTimestamp=1657468466025, bornHost=/172.26.144.1:11253, storeTimestamp=1657547781582, storeHost=/172.26.144.1:10911, msgId=AC1A900100002A9F000000000012C1E2, commitLogOffset=1229282, bodyCRC=1155015168, reconsumeTimes=14, preparedTransactionOffset=0, toString()=Message{topic='TP_START_REPAYMENT', flag=0, properties={TRAN_MSG=true, CONSUME_START_TIME=1657547784638, MIN_OFFSET=0, REAL_TOPIC=%RETRY%CID_START_REPAYMENT, ORIGIN_MESSAGE_ID=AC1A900100002A9F00000000001137A0, RETRY_TOPIC=TP_START_REPAYMENT, MAX_OFFSET=31, id=d2e620f4-65f0-2405-6063-044a2370c20c, UNIQ_KEY=C0A801046B6018B4AAC2337A7F690001, WAIT=false, PGROUP=PID_START_REPAYMENT, DELAY=16, timestamp=1657468466024, REAL_QID=0}, body=[123, 34, 112, 114, 111, 106, 101, 99, 116, 34, 58, 123, 34, 97, 109, 111, 117, 110, 116, 34, 58, 53, 50, 48, 48, 46, 48, 48, 44, 34, 97, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 48, 44, 34, 98, 111, 114, 114, 111, 119, 101, 114, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 53, 44, 34, 99, 111, 109, 109, 105, 115, 115, 105, 111, 110, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 53, 44, 34, 99, 111, 110, 115, 117, 109, 101, 114, 73, 100, 34, 58, 49, 48, 48, 49, 44, 34, 99, 114, 101, 97, 116, 101, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 55, 45, 49, 48, 32, 50, 51, 58, 53, 48, 58, 49, 49, 34, 44, 34, 100, 101, 115, 99, 114, 105, 112, 116, 105, 111, 110, 34, 58, 34, -28, -72, -86, -28, -70, -70, -25, -108, -97, -26, -76, -69, -26, -74, -120, -24, -76, -71, 34, 44, 34, 105, 100, 34, 58, 49, 53, 52, 54, 49, 53, 57, 56, 53, 57, 56, 52, 48, 53, 55, 51, 52, 52, 50, 44, 34, 105, 115, 65, 115, 115, 105, 103, 110, 109, 101, 110, 116, 34, 58, 48, 44, 34, 109, 111, 100, 105, 102, 121, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 55, 45, 49, 48, 32, 50, 51, 58, 53, 52, 58, 48, 54, 34, 44, 34, 110, 97, 109, 101, 34, 58, 34, -25, -67, -105, -23, -108, -124, -28, -71, -104, -27, -123, -120, -25, -108, -97, -25, -84, -84, 49, -26, -84, -95, -27, -128, -97, -26, -84, -66, 34, 44, 34, 112, 101, 114, 105, 111, 100, 34, 58, 51, 54, 48, 44, 34, 112, 114, 111, 106, 101, 99, 116, 78, 111, 34, 58, 34, 80, 82, 79, 95, 52, 49, 70, 53, 55, 53, 66, 66, 50, 51, 66, 53, 52, 69, 57, 55, 57, 50, 54, 68, 68, 48, 53, 54, 49, 66, 69, 69, 49, 50, 67, 48, 34, 44, 34, 112, 114, 111, 106, 101, 99, 116, 83, 116, 97, 116, 117, 115, 34, 58, 34, 82, 69, 80, 65, 89, 73, 78, 71, 34, 44, 34, 114, 101, 112, 97, 121, 109, 101, 110, 116, 87, 97, 121, 34, 58, 34, 70, 73, 88, 69, 68, 95, 82, 69, 80, 65, 89, 77, 69, 78, 84, 34, 44, 34, 114, 101, 113, 117, 101, 115, 116, 78, 111, 34, 58, 34, 82, 69, 81, 95, 54, 66, 65, 70, 50, 57, 69, 70, 55, 57, 50, 67, 52, 67, 50, 65, 57, 48, 56, 52, 66, 67, 53, 54, 65, 67, 49, 51, 67, 55, 49, 50, 34, 44, 34, 115, 116, 97, 116, 117, 115, 34, 58, 49, 44, 34, 116, 121, 112, 101, 34, 58, 34, 78, 69, 87, 34, 44, 34, 117, 115, 101, 114, 78, 111, 34, 58, 34, 85, 83, 82, 95, 51, 53, 50, 53, 67, 51, 70, 53, 54, 69, 51, 54, 52, 49, 54, 66, 57, 70, 65, 55, 54, 57, 54, 54, 49, 57, 69, 50, 70, 57, 54, 89, 34, 125, 44, 34, 112, 114, 111, 106, 101, 99, 116, 87, 105, 116, 104, 84, 101, 110, 100, 101, 114, 115, 68, 84, 79, 34, 58, 123, 34, 99, 111, 109, 109, 105, 115, 115, 105, 111, 110, 66, 111, 114, 114, 111, 119, 101, 114, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 50, 44, 34, 99, 111, 109, 109, 105, 115, 115, 105, 111, 110, 73, 110, 118, 101, 115, 116, 111, 114, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 51, 44, 34, 112, 114, 111, 106, 101, 99, 116, 34, 58, 123, 34, 97, 109, 111, 117, 110, 116, 34, 58, 53, 50, 48, 48, 46, 48, 48, 44, 34, 97, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 48, 44, 34, 98, 111, 114, 114, 111, 119, 101, 114, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 53, 44, 34, 99, 111, 109, 109, 105, 115, 115, 105, 111, 110, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 53, 44, 34, 99, 111, 110, 115, 117, 109, 101, 114, 73, 100, 34, 58, 49, 48, 48, 49, 44, 34, 99, 114, 101, 97, 116, 101, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 55, 45, 49, 48, 32, 50, 51, 58, 53, 48, 58, 49, 49, 34, 44, 34, 100, 101, 115, 99, 114, 105, 112, 116, 105, 111, 110, 34, 58, 34, -28, -72, -86, -28, -70, -70, -25, -108, -97, -26, -76, -69, -26, -74, -120, -24, -76, -71, 34, 44, 34, 105, 100, 34, 58, 49, 53, 52, 54, 49, 53, 57, 56, 53, 57, 56, 52, 48, 53, 55, 51, 52, 52, 50, 44, 34, 105, 115, 65, 115, 115, 105, 103, 110, 109, 101, 110, 116, 34, 58, 48, 44, 34, 110, 97, 109, 101, 34, 58, 34, -25, -67, -105, -23, -108, -124, -28, -71, -104, -27, -123, -120, -25, -108, -97, -25, -84, -84, 49, -26, -84, -95, -27, -128, -97, -26, -84, -66, 34, 44, 34, 112, 101, 114, 105, 111, 100, 34, 58, 51, 54, 48, 44, 34, 112, 114, 111, 106, 101, 99, 116, 78, 111, 34, 58, 34, 80, 82, 79, 95, 52, 49, 70, 53, 55, 53, 66, 66, 50, 51, 66, 53, 52, 69, 57, 55, 57, 50, 54, 68, 68, 48, 53, 54, 49, 66, 69, 69, 49, 50, 67, 48, 34, 44, 34, 112, 114, 111, 106, 101, 99, 116, 83, 116, 97, 116, 117, 115, 34, 58, 34, 82, 69, 80, 65, 89, 73, 78, 71, 34, 44, 34, 114, 101, 112, 97, 121, 109, 101, 110, 116, 87, 97, 121, 34, 58, 34, 70, 73, 88, 69, 68, 95, 82, 69, 80, 65, 89, 77, 69, 78, 84, 34, 44, 34, 114, 101, 113, 117, 101, 115, 116, 78, 111, 34, 58, 34, 82, 69, 81, 95, 54, 66, 65, 70, 50, 57, 69, 70, 55, 57, 50, 67, 52, 67, 50, 65, 57, 48, 56, 52, 66, 67, 53, 54, 65, 67, 49, 51, 67, 55, 49, 50, 34, 44, 34, 114, 105, 115, 107, 34, 58, 34, 66, 34, 44, 34, 115, 116, 97, 116, 117, 115, 34, 58, 49, 44, 34, 116, 121, 112, 101, 34, 58, 34, 78, 69, 87, 34, 44, 34, 117, 115, 101, 114, 78, 111, 34, 58, 34, 85, 83, 82, 95, 51, 53, 50, 53, 67, 51, 70, 53, 54, 69, 51, 54, 52, 49, 54, 66, 57, 70, 65, 55, 54, 57, 54, 54, 49, 57, 69, 50, 70, 57, 54, 89, 34, 125, 44, 34, 116, 101, 110, 100, 101, 114, 115, 34, 58, 91, 123, 34, 97, 109, 111, 117, 110, 116, 34, 58, 53, 50, 48, 48, 44, 34, 99, 111, 110, 115, 117, 109, 101, 114, 73, 100, 34, 58, 49, 48, 48, 50, 44, 34, 99, 111, 110, 115, 117, 109, 101, 114, 85, 115, 101, 114, 110, 97, 109, 101, 34, 58, 34, 49, 53, 51, 55, 56, 55, 57, 49, 57, 56, 50, 34, 44, 34, 99, 114, 101, 97, 116, 101, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 55, 45, 49, 48, 32, 50, 51, 58, 53, 52, 58, 48, 54, 34, 44, 34, 105, 100, 34, 58, 49, 53, 52, 54, 49, 54, 48, 56, 52, 49, 54, 50, 54, 52, 55, 54, 53, 52, 53, 44, 34, 112, 114, 111, 106, 101, 99, 116, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 48, 44, 34, 112, 114, 111, 106, 101, 99, 116, 73, 100, 34, 58, 49, 53, 52, 54, 49, 53, 57, 56, 53, 57, 56, 52, 48, 53, 55, 51, 52, 52, 50, 44, 34, 112, 114, 111, 106, 101, 99, 116, 78, 111, 34, 58, 34, -25, -67, -105, -23, -108, -124, -28, -71, -104, -27, -123, -120, -25, -108, -97, -25, -84, -84, 49, -26, -84, -95, -27, -128, -97, -26, -84, -66, 34, 44, 34, 112, 114, 111, 106, 101, 99, 116, 80, 101, 114, 105, 111, 100, 34, 58, 51, 54, 48, 44, 34, 114, 101, 113, 117, 101, 115, 116, 78, 111, 34, 58, 34, 82, 69, 81, 95, 55, 53, 54, 55, 68, 48, 52, 65, 65, 50, 48, 51, 52, 57, 50, 70, 66, 54, 50, 67, 49, 50, 70, 67, 51, 68, 70, 49, 68, 50, 53, 55, 34, 44, 34, 115, 116, 97, 116, 117, 115, 34, 58, 49, 44, 34, 116, 101, 110, 100, 101, 114, 83, 116, 97, 116, 117, 115, 34, 58, 34, 76, 79, 65, 78, 34, 44, 34, 117, 115, 101, 114, 78, 111, 34, 58, 34, 85, 83, 82, 95, 51, 53, 50, 53, 67, 51, 70, 53, 54, 69, 51, 54, 52, 49, 54, 66, 57, 70, 65, 55, 54, 57, 54, 54, 49, 57, 69, 50, 70, 48, 49, 89, 34, 125, 93, 125, 125], transactionId='C0A801046B6018B4AAC2337A7F690001'}]
+org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+### The error may exist in com/liu/wanxinp2p/repayment/mapper/PlanMapper.java (best guess)
+### The error may involve com.liu.wanxinp2p.repayment.mapper.PlanMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO repayment_plan  ( ID, CONSUMER_ID, USER_NO, PROJECT_ID, PROJECT_NO, NUMBER_OF_PERIODS, INTEREST, PRINCIPAL, AMOUNT, SHOULD_REPAYMENT_DATE, REPAYMENT_STATUS, CREATE_DATE, COMMISSION )  VALUES  ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+; Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:242)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy155.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:64)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:61)
+	at com.sun.proxy.$Proxy156.insert(Unknown Source)
+	at com.liu.wanxinp2p.repayment.service.RepaymentServiceImpl.saveRepaymentPlan(RepaymentServiceImpl.java:167)
+	at com.liu.wanxinp2p.repayment.service.RepaymentServiceImpl.startRepayment(RepaymentServiceImpl.java:63)
+	at com.liu.wanxinp2p.repayment.message.StartRepaymentMessageConsumer.onMessage(StartRepaymentMessageConsumer.java:28)
+	at com.liu.wanxinp2p.repayment.message.StartRepaymentMessageConsumer.onMessage(StartRepaymentMessageConsumer.java:13)
+	at org.apache.rocketmq.spring.support.DefaultRocketMQListenerContainer$DefaultMessageListenerConcurrently.consumeMessage(DefaultRocketMQListenerContainer.java:308)
+	at org.apache.rocketmq.client.impl.consumer.ConsumeMessageConcurrentlyService$ConsumeRequest.run(ConsumeMessageConcurrentlyService.java:417)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3409)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.wall.WallFilter.preparedStatement_execute(WallFilter.java:627)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.filter.FilterAdapter.preparedStatement_execute(FilterAdapter.java:1081)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.execute(PreparedStatementProxyImpl.java:167)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy218.update(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PerformanceInterceptor.intercept(PerformanceInterceptor.java:172)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy218.update(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 16 more
+[Repayment-Service][53080] 2022-07-11 21:56:24,942 WARN [ConsumeMessageThread_1][DefaultRocketMQListenerContainer.java:312] - consume message failed. messageExt:MessageExt [queueId=0, storeSize=1983, queueOffset=29, sysFlag=8, bornTimestamp=1657468466025, bornHost=/172.26.144.1:11253, storeTimestamp=1657547781582, storeHost=/172.26.144.1:10911, msgId=AC1A900100002A9F000000000012BA23, commitLogOffset=1227299, bodyCRC=1155015168, reconsumeTimes=14, preparedTransactionOffset=0, toString()=Message{topic='TP_START_REPAYMENT', flag=0, properties={TRAN_MSG=true, CONSUME_START_TIME=1657547784637, MIN_OFFSET=0, REAL_TOPIC=%RETRY%CID_START_REPAYMENT, ORIGIN_MESSAGE_ID=AC1A900100002A9F00000000001137A0, RETRY_TOPIC=TP_START_REPAYMENT, MAX_OFFSET=30, id=d2e620f4-65f0-2405-6063-044a2370c20c, UNIQ_KEY=C0A801046B6018B4AAC2337A7F690001, WAIT=false, PGROUP=PID_START_REPAYMENT, DELAY=16, timestamp=1657468466024, REAL_QID=0}, body=[123, 34, 112, 114, 111, 106, 101, 99, 116, 34, 58, 123, 34, 97, 109, 111, 117, 110, 116, 34, 58, 53, 50, 48, 48, 46, 48, 48, 44, 34, 97, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 48, 44, 34, 98, 111, 114, 114, 111, 119, 101, 114, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 53, 44, 34, 99, 111, 109, 109, 105, 115, 115, 105, 111, 110, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 53, 44, 34, 99, 111, 110, 115, 117, 109, 101, 114, 73, 100, 34, 58, 49, 48, 48, 49, 44, 34, 99, 114, 101, 97, 116, 101, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 55, 45, 49, 48, 32, 50, 51, 58, 53, 48, 58, 49, 49, 34, 44, 34, 100, 101, 115, 99, 114, 105, 112, 116, 105, 111, 110, 34, 58, 34, -28, -72, -86, -28, -70, -70, -25, -108, -97, -26, -76, -69, -26, -74, -120, -24, -76, -71, 34, 44, 34, 105, 100, 34, 58, 49, 53, 52, 54, 49, 53, 57, 56, 53, 57, 56, 52, 48, 53, 55, 51, 52, 52, 50, 44, 34, 105, 115, 65, 115, 115, 105, 103, 110, 109, 101, 110, 116, 34, 58, 48, 44, 34, 109, 111, 100, 105, 102, 121, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 55, 45, 49, 48, 32, 50, 51, 58, 53, 52, 58, 48, 54, 34, 44, 34, 110, 97, 109, 101, 34, 58, 34, -25, -67, -105, -23, -108, -124, -28, -71, -104, -27, -123, -120, -25, -108, -97, -25, -84, -84, 49, -26, -84, -95, -27, -128, -97, -26, -84, -66, 34, 44, 34, 112, 101, 114, 105, 111, 100, 34, 58, 51, 54, 48, 44, 34, 112, 114, 111, 106, 101, 99, 116, 78, 111, 34, 58, 34, 80, 82, 79, 95, 52, 49, 70, 53, 55, 53, 66, 66, 50, 51, 66, 53, 52, 69, 57, 55, 57, 50, 54, 68, 68, 48, 53, 54, 49, 66, 69, 69, 49, 50, 67, 48, 34, 44, 34, 112, 114, 111, 106, 101, 99, 116, 83, 116, 97, 116, 117, 115, 34, 58, 34, 82, 69, 80, 65, 89, 73, 78, 71, 34, 44, 34, 114, 101, 112, 97, 121, 109, 101, 110, 116, 87, 97, 121, 34, 58, 34, 70, 73, 88, 69, 68, 95, 82, 69, 80, 65, 89, 77, 69, 78, 84, 34, 44, 34, 114, 101, 113, 117, 101, 115, 116, 78, 111, 34, 58, 34, 82, 69, 81, 95, 54, 66, 65, 70, 50, 57, 69, 70, 55, 57, 50, 67, 52, 67, 50, 65, 57, 48, 56, 52, 66, 67, 53, 54, 65, 67, 49, 51, 67, 55, 49, 50, 34, 44, 34, 115, 116, 97, 116, 117, 115, 34, 58, 49, 44, 34, 116, 121, 112, 101, 34, 58, 34, 78, 69, 87, 34, 44, 34, 117, 115, 101, 114, 78, 111, 34, 58, 34, 85, 83, 82, 95, 51, 53, 50, 53, 67, 51, 70, 53, 54, 69, 51, 54, 52, 49, 54, 66, 57, 70, 65, 55, 54, 57, 54, 54, 49, 57, 69, 50, 70, 57, 54, 89, 34, 125, 44, 34, 112, 114, 111, 106, 101, 99, 116, 87, 105, 116, 104, 84, 101, 110, 100, 101, 114, 115, 68, 84, 79, 34, 58, 123, 34, 99, 111, 109, 109, 105, 115, 115, 105, 111, 110, 66, 111, 114, 114, 111, 119, 101, 114, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 50, 44, 34, 99, 111, 109, 109, 105, 115, 115, 105, 111, 110, 73, 110, 118, 101, 115, 116, 111, 114, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 51, 44, 34, 112, 114, 111, 106, 101, 99, 116, 34, 58, 123, 34, 97, 109, 111, 117, 110, 116, 34, 58, 53, 50, 48, 48, 46, 48, 48, 44, 34, 97, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 48, 44, 34, 98, 111, 114, 114, 111, 119, 101, 114, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 53, 44, 34, 99, 111, 109, 109, 105, 115, 115, 105, 111, 110, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 53, 44, 34, 99, 111, 110, 115, 117, 109, 101, 114, 73, 100, 34, 58, 49, 48, 48, 49, 44, 34, 99, 114, 101, 97, 116, 101, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 55, 45, 49, 48, 32, 50, 51, 58, 53, 48, 58, 49, 49, 34, 44, 34, 100, 101, 115, 99, 114, 105, 112, 116, 105, 111, 110, 34, 58, 34, -28, -72, -86, -28, -70, -70, -25, -108, -97, -26, -76, -69, -26, -74, -120, -24, -76, -71, 34, 44, 34, 105, 100, 34, 58, 49, 53, 52, 54, 49, 53, 57, 56, 53, 57, 56, 52, 48, 53, 55, 51, 52, 52, 50, 44, 34, 105, 115, 65, 115, 115, 105, 103, 110, 109, 101, 110, 116, 34, 58, 48, 44, 34, 110, 97, 109, 101, 34, 58, 34, -25, -67, -105, -23, -108, -124, -28, -71, -104, -27, -123, -120, -25, -108, -97, -25, -84, -84, 49, -26, -84, -95, -27, -128, -97, -26, -84, -66, 34, 44, 34, 112, 101, 114, 105, 111, 100, 34, 58, 51, 54, 48, 44, 34, 112, 114, 111, 106, 101, 99, 116, 78, 111, 34, 58, 34, 80, 82, 79, 95, 52, 49, 70, 53, 55, 53, 66, 66, 50, 51, 66, 53, 52, 69, 57, 55, 57, 50, 54, 68, 68, 48, 53, 54, 49, 66, 69, 69, 49, 50, 67, 48, 34, 44, 34, 112, 114, 111, 106, 101, 99, 116, 83, 116, 97, 116, 117, 115, 34, 58, 34, 82, 69, 80, 65, 89, 73, 78, 71, 34, 44, 34, 114, 101, 112, 97, 121, 109, 101, 110, 116, 87, 97, 121, 34, 58, 34, 70, 73, 88, 69, 68, 95, 82, 69, 80, 65, 89, 77, 69, 78, 84, 34, 44, 34, 114, 101, 113, 117, 101, 115, 116, 78, 111, 34, 58, 34, 82, 69, 81, 95, 54, 66, 65, 70, 50, 57, 69, 70, 55, 57, 50, 67, 52, 67, 50, 65, 57, 48, 56, 52, 66, 67, 53, 54, 65, 67, 49, 51, 67, 55, 49, 50, 34, 44, 34, 114, 105, 115, 107, 34, 58, 34, 66, 34, 44, 34, 115, 116, 97, 116, 117, 115, 34, 58, 49, 44, 34, 116, 121, 112, 101, 34, 58, 34, 78, 69, 87, 34, 44, 34, 117, 115, 101, 114, 78, 111, 34, 58, 34, 85, 83, 82, 95, 51, 53, 50, 53, 67, 51, 70, 53, 54, 69, 51, 54, 52, 49, 54, 66, 57, 70, 65, 55, 54, 57, 54, 54, 49, 57, 69, 50, 70, 57, 54, 89, 34, 125, 44, 34, 116, 101, 110, 100, 101, 114, 115, 34, 58, 91, 123, 34, 97, 109, 111, 117, 110, 116, 34, 58, 53, 50, 48, 48, 44, 34, 99, 111, 110, 115, 117, 109, 101, 114, 73, 100, 34, 58, 49, 48, 48, 50, 44, 34, 99, 111, 110, 115, 117, 109, 101, 114, 85, 115, 101, 114, 110, 97, 109, 101, 34, 58, 34, 49, 53, 51, 55, 56, 55, 57, 49, 57, 56, 50, 34, 44, 34, 99, 114, 101, 97, 116, 101, 68, 97, 116, 101, 34, 58, 34, 50, 48, 50, 50, 45, 48, 55, 45, 49, 48, 32, 50, 51, 58, 53, 52, 58, 48, 54, 34, 44, 34, 105, 100, 34, 58, 49, 53, 52, 54, 49, 54, 48, 56, 52, 49, 54, 50, 54, 52, 55, 54, 53, 52, 53, 44, 34, 112, 114, 111, 106, 101, 99, 116, 65, 110, 110, 117, 97, 108, 82, 97, 116, 101, 34, 58, 48, 46, 48, 48, 44, 34, 112, 114, 111, 106, 101, 99, 116, 73, 100, 34, 58, 49, 53, 52, 54, 49, 53, 57, 56, 53, 57, 56, 52, 48, 53, 55, 51, 52, 52, 50, 44, 34, 112, 114, 111, 106, 101, 99, 116, 78, 111, 34, 58, 34, -25, -67, -105, -23, -108, -124, -28, -71, -104, -27, -123, -120, -25, -108, -97, -25, -84, -84, 49, -26, -84, -95, -27, -128, -97, -26, -84, -66, 34, 44, 34, 112, 114, 111, 106, 101, 99, 116, 80, 101, 114, 105, 111, 100, 34, 58, 51, 54, 48, 44, 34, 114, 101, 113, 117, 101, 115, 116, 78, 111, 34, 58, 34, 82, 69, 81, 95, 55, 53, 54, 55, 68, 48, 52, 65, 65, 50, 48, 51, 52, 57, 50, 70, 66, 54, 50, 67, 49, 50, 70, 67, 51, 68, 70, 49, 68, 50, 53, 55, 34, 44, 34, 115, 116, 97, 116, 117, 115, 34, 58, 49, 44, 34, 116, 101, 110, 100, 101, 114, 83, 116, 97, 116, 117, 115, 34, 58, 34, 76, 79, 65, 78, 34, 44, 34, 117, 115, 101, 114, 78, 111, 34, 58, 34, 85, 83, 82, 95, 51, 53, 50, 53, 67, 51, 70, 53, 54, 69, 51, 54, 52, 49, 54, 66, 57, 70, 65, 55, 54, 57, 54, 54, 49, 57, 69, 50, 70, 48, 49, 89, 34, 125, 93, 125, 125], transactionId='C0A801046B6018B4AAC2337A7F690001'}]
+org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+### The error may exist in com/liu/wanxinp2p/repayment/mapper/PlanMapper.java (best guess)
+### The error may involve com.liu.wanxinp2p.repayment.mapper.PlanMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO repayment_plan  ( ID, CONSUMER_ID, USER_NO, PROJECT_ID, PROJECT_NO, NUMBER_OF_PERIODS, INTEREST, PRINCIPAL, AMOUNT, SHOULD_REPAYMENT_DATE, REPAYMENT_STATUS, CREATE_DATE, COMMISSION )  VALUES  ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+; Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:242)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy155.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:64)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:61)
+	at com.sun.proxy.$Proxy156.insert(Unknown Source)
+	at com.liu.wanxinp2p.repayment.service.RepaymentServiceImpl.saveRepaymentPlan(RepaymentServiceImpl.java:167)
+	at com.liu.wanxinp2p.repayment.service.RepaymentServiceImpl.startRepayment(RepaymentServiceImpl.java:63)
+	at com.liu.wanxinp2p.repayment.message.StartRepaymentMessageConsumer.onMessage(StartRepaymentMessageConsumer.java:28)
+	at com.liu.wanxinp2p.repayment.message.StartRepaymentMessageConsumer.onMessage(StartRepaymentMessageConsumer.java:13)
+	at org.apache.rocketmq.spring.support.DefaultRocketMQListenerContainer$DefaultMessageListenerConcurrently.consumeMessage(DefaultRocketMQListenerContainer.java:308)
+	at org.apache.rocketmq.client.impl.consumer.ConsumeMessageConcurrentlyService$ConsumeRequest.run(ConsumeMessageConcurrentlyService.java:417)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1001-1546159859840573442-1' for key 'repayment_plan.plan_unique'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3409)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.wall.WallFilter.preparedStatement_execute(WallFilter.java:627)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_execute(FilterEventAdapter.java:440)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.filter.FilterAdapter.preparedStatement_execute(FilterAdapter.java:1081)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_execute(FilterChainImpl.java:3407)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.execute(PreparedStatementProxyImpl.java:167)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:497)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy218.update(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.extension.plugins.PerformanceInterceptor.intercept(PerformanceInterceptor.java:172)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy218.update(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 16 more
+[Repayment-Service][53080] 2022-07-11 21:57:05,653 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:58:05,666 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:59:05,670 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-11 21:59:10,909 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-11 21:59:11,916 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:59:17,028 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-11 21:59:18,034 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-11 21:59:42,917 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration

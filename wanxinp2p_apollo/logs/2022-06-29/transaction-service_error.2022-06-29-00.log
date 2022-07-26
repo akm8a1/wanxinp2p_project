@@ -1,0 +1,2 @@
+[transaction-service][53060] 2022-06-29 00:38:49,282 ERROR [http-nio-53060-exec-1][GlobalExceptionHandler.java:42] - 系统异常:com.netflix.client.ClientException: Load balancer does not have available server for client: content-search-service
+[transaction-service][53060] 2022-06-29 00:38:54,923 ERROR [http-nio-53060-exec-2][GlobalExceptionHandler.java:42] - 系统异常:com.netflix.client.ClientException: Load balancer does not have available server for client: content-search-service

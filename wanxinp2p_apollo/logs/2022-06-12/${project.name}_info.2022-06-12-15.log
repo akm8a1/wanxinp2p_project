@@ -1,0 +1,2 @@
+[${project.name}][${env:SERVER_PORT}] 2022-06-12 16:00:08,381 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+[${project.name}][${env:SERVER_PORT}] 2022-06-12 16:00:18,387 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms

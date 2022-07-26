@@ -1,0 +1,4 @@
+[depository-agent][53070] 2022-07-10 20:59:59,370 INFO [main][DefaultApplicationProvider.java:85] - App ID is set to depository-agent-service by app.id property from System Property
+[depository-agent][53070] 2022-07-10 20:59:59,380 INFO [main][DefaultServerProvider.java:108] - Environment is set to [dev] by JVM system property 'env'.
+[depository-agent][53070] 2022-07-10 20:59:59,441 WARN [main][DefaultMetaServerProvider.java:39] - Could not find meta server address, because it is not available in neither (1) JVM system property 'apollo.meta', (2) OS env variable 'APOLLO_META' (3) property 'apollo.meta' from server.properties nor (4) property 'apollo.meta' from app.properties
+[depository-agent][53070] 2022-07-10 20:59:59,447 INFO [main][MetaDomainConsts.java:93] - Located meta server address http://localhost:8080 for env DEV from com.ctrip.framework.apollo.core.internals.LegacyMetaServerProvider

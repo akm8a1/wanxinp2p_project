@@ -1,0 +1,2 @@
+[${project.name}][${env:SERVER_PORT}] 2022-06-15 02:03:05,000 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[${project.name}][${env:SERVER_PORT}] 2022-06-15 02:03:06,532 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60

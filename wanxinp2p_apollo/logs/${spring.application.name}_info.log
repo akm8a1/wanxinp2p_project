@@ -1,0 +1,70 @@
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:57,740 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:58,812 WARN [main][EndpointId.java:135] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:59,109 INFO [main][GenericScope.java:294] - BeanFactory id=33c68227-122c-36dd-8028-a36de4f592a4
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:59,232 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$29ff786] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:59,728 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 53000 (http)
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:59,758 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-53000"]
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:59,775 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:59,777 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+[${spring.application.name}][${server.port}] 2022-06-12 19:15:59,792 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk1.8.0_161\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\VanDyke Software\Clients\;E:\Anaconda;E:\Anaconda\Library\mingw-w64\bin;E:\Anaconda\Library\usr\bin;E:\Anaconda\Library\bin;E:\Anaconda\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\mysql-5.7.20-winx64\bin;C:\Program Files\dotnet\;E:\nodejs\;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;E:\spark-2.1.1-hadoop2.7\bin;D:\Android\Sdk\platform-tools;E:\TortoiseSVN\bin;E:\TortoiseSVN\bin;E:\Subversion\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\CMake\bin;C:\mingw64\bin;E:\scala-2.12.15\bin;C:\Program Files (x86)\scala\bin;E:\spark\bin;E:\spark-2.1.1-hadoop2.7\bin;E:\NetSarang\Xshell 7\;E:\NetSarang\Xftp 7\;C:\Program Files\Git\cmd;E:\apache-maven-3.6.3\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;E:\IntelliJ IDEA\bin;;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Users\Administrator\.dotnet\tools;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;E:\Microsoft VS Code\bin;.]
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:00,005 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:00,005 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 2247 ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:00,158 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:00,160 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:00,182 INFO [main][DynamicPropertyFactory.java:281] - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@5a50d9fc
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:02,438 INFO [main][WebApplicationImpl.java:815] - Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:02,537 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:02,538 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:02,676 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:02,677 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:03,063 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:03,064 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:03,412 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:06,513 INFO [main][InstanceInfoFactory.java:71] - Setting initial instance status as: STARTING
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:06,573 INFO [main][DiscoveryClient.java:349] - Initializing Eureka in region us-east-1
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:06,573 INFO [main][DiscoveryClient.java:352] - Client configured to neither register nor query for data.
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:06,587 INFO [main][DiscoveryClient.java:365] - Discovery Client initialized at timestamp 1655032566585 with initial instances count: 0
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:06,687 INFO [main][DefaultEurekaServerContext.java:63] - Initializing ...
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:06,693 INFO [main][PeerEurekaNodes.java:188] - Adding new peer nodes [http://localhost:53000/eureka/]
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:07,883 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:07,883 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:07,884 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:07,884 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,025 INFO [main][PeerEurekaNodes.java:110] - Replica node URL:  http://localhost:53000/eureka/
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,042 INFO [main][AbstractInstanceRegistry.java:151] - Finished initializing remote region registries. All known remote regions: []
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,043 INFO [main][DefaultEurekaServerContext.java:70] - Initialized
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,055 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,190 INFO [main][EurekaServiceRegistry.java:42] - Registering application HNRADIO-DISCOVERY with eureka with status UP
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,194 INFO [Thread-43][EurekaServerBootstrap.java:109] - Setting the eureka configuration..
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,196 INFO [Thread-43][EurekaServerBootstrap.java:114] - Eureka data center value eureka.datacenter is not set, defaulting to default
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,197 INFO [Thread-43][EurekaServerBootstrap.java:128] - Eureka environment value eureka.environment is not set, defaulting to test
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,213 INFO [Thread-43][EurekaServerBootstrap.java:184] - isAws returned false
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,214 INFO [Thread-43][EurekaServerBootstrap.java:152] - Initialized server context
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,215 INFO [Thread-43][PeerAwareInstanceRegistryImpl.java:241] - Got 1 instances from neighboring DS node
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,215 INFO [Thread-43][PeerAwareInstanceRegistryImpl.java:242] - Renew threshold is: 1
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,215 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-53000"]
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,215 INFO [Thread-43][PeerAwareInstanceRegistryImpl.java:253] - Changing status to UP
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,225 INFO [Thread-43][EurekaServerInitializerConfiguration.java:72] - Started Eureka Server
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,257 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 53000 (http) with context path ''
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,259 INFO [main][EurekaAutoServiceRegistration.java:141] - Updating port to 53000
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:08,262 INFO [main][StartupInfoLogger.java:59] - Started DiscoveryServer in 16.098 seconds (JVM running for 18.637)
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:09,958 INFO [RMI TCP Connection(2)-172.25.240.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:09,959 INFO [RMI TCP Connection(2)-172.25.240.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:09,972 INFO [RMI TCP Connection(2)-172.25.240.1][FrameworkServlet.java:546] - Completed initialization in 13 ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:18,226 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 0ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:28,262 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:38,246 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:48,258 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 12ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:16:58,265 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 6ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:17:08,280 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 15ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:17:08,636 INFO [http-nio-53000-exec-2][AbstractInstanceRegistry.java:266] - Registered instance CONSUMER-SERVICE/consumer-service:127.0.0.1:53050 with status UP (replication=false)
+[${spring.application.name}][${server.port}] 2022-06-12 19:17:09,292 INFO [http-nio-53000-exec-3][AbstractInstanceRegistry.java:266] - Registered instance CONSUMER-SERVICE/consumer-service:127.0.0.1:53050 with status UP (replication=true)
+[${spring.application.name}][${server.port}] 2022-06-12 19:17:18,281 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:17:28,289 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 7ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:17:38,295 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 5ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:17:48,309 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:17:58,321 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 11ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:18:08,323 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 1ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:18:18,337 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:18:28,346 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 8ms
+[${spring.application.name}][${server.port}] 2022-06-12 19:18:38,361 INFO [Eureka-EvictionTimer][AbstractInstanceRegistry.java:1250] - Running the evict task with compensationTime 14ms

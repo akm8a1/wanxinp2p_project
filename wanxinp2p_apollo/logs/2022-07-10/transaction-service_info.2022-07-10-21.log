@@ -1,0 +1,1049 @@
+[transaction-service][53060] 2022-07-10 21:10:49,886 INFO [main][DefaultApplicationProvider.java:85] - App ID is set to transaction-service by app.id property from System Property
+[transaction-service][53060] 2022-07-10 21:10:49,899 INFO [main][DefaultServerProvider.java:108] - Environment is set to [dev] by JVM system property 'env'.
+[transaction-service][53060] 2022-07-10 21:10:50,006 WARN [main][DefaultMetaServerProvider.java:39] - Could not find meta server address, because it is not available in neither (1) JVM system property 'apollo.meta', (2) OS env variable 'APOLLO_META' (3) property 'apollo.meta' from server.properties nor (4) property 'apollo.meta' from app.properties
+[transaction-service][53060] 2022-07-10 21:10:50,021 INFO [main][MetaDomainConsts.java:93] - Located meta server address http://localhost:8080 for env DEV from com.ctrip.framework.apollo.core.internals.LegacyMetaServerProvider
+[transaction-service][53060] 2022-07-10 21:10:52,277 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:10:53,289 WARN [main][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1 [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:10:53,297 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:10:54,317 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:10:54,325 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:10:55,332 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:10:56,338 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:10:56,346 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:10:57,797 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:10:57,799 WARN [main][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.LocalFileConfigRepository, reason: Load config from local config failed! [Cause: Cannot read from local cache file C:\opt\data\transaction-service\config-cache\transaction-service+DEFAULT+micro_service.spring-cloud-feign.properties]
+[transaction-service][53060] 2022-07-10 21:10:57,822 WARN [main][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:10:58,842 WARN [main][LocalFileConfigRepository.java:167] - Sync config from upstream repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository failed, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:10:58,844 WARN [main][DefaultConfig.java:61] - Init Apollo Local Config failed - namespace: micro_service.spring-cloud-feign, reason: Load config from local config failed! [Cause: Cannot read from local cache file C:\opt\data\transaction-service\config-cache\transaction-service+DEFAULT+micro_service.spring-cloud-feign.properties].
+[transaction-service][53060] 2022-07-10 21:10:58,940 WARN [main][DefaultConfig.java:95] - Could not load config for namespace micro_service.spring-cloud-feign from Apollo, please check whether the configs are released in Apollo! Return default value now!
+[transaction-service][53060] 2022-07-10 21:10:58,942 INFO [main][SpringApplication.java:675] - No active profile set, falling back to default profiles: default
+[transaction-service][53060] 2022-07-10 21:11:03,355 WARN [main][EndpointId.java:135] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+[transaction-service][53060] 2022-07-10 21:11:03,779 INFO [main][GenericScope.java:294] - BeanFactory id=abd3f24e-aec8-3cc6-849a-f7f4787b54d3
+[transaction-service][53060] 2022-07-10 21:11:03,856 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'com.liu.wanxinp2p.transaction.agent.ConsumerServiceAgent' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:03,859 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'com.liu.wanxinp2p.transaction.agent.ContentSearchApiAgent' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:03,862 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'com.liu.wanxinp2p.transaction.agent.DepositoryAgentService' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:03,906 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.apache.rocketmq.spring.autoconfigure.RocketMQAutoConfiguration' of type [org.apache.rocketmq.spring.autoconfigure.RocketMQAutoConfiguration$$EnhancerBySpringCGLIB$$6abb0978] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:03,928 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'rocketmq-org.apache.rocketmq.spring.autoconfigure.RocketMQProperties' of type [org.apache.rocketmq.spring.autoconfigure.RocketMQProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,862 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'defaultMQProducer' of type [org.apache.rocketmq.client.producer.DefaultMQProducer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,868 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration$$EnhancerBySpringCGLIB$$9db87a0d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,875 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration$$EnhancerBySpringCGLIB$$50053c26] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,881 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration$$EnhancerBySpringCGLIB$$b1c2215] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,893 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'spring.jackson-org.springframework.boot.autoconfigure.jackson.JacksonProperties' of type [org.springframework.boot.autoconfigure.jackson.JacksonProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,896 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'standardJacksonObjectMapperBuilderCustomizer' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration$StandardJackson2ObjectMapperBuilderCustomizer] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,908 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration$$EnhancerBySpringCGLIB$$31e79943] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,926 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'parameterNamesModule' of type [com.fasterxml.jackson.module.paramnames.ParameterNamesModule] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:06,928 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration' of type [org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$$EnhancerBySpringCGLIB$$7fc4179c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:07,037 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'jsonComponentModule' of type [org.springframework.boot.jackson.JsonComponentModule] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:07,038 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.data.web.config.SpringDataJacksonConfiguration' of type [org.springframework.data.web.config.SpringDataJacksonConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:07,054 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'jacksonGeoModule' of type [org.springframework.data.geo.GeoModule] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:07,063 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'jacksonObjectMapperBuilder' of type [org.springframework.http.converter.json.Jackson2ObjectMapperBuilder] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:07,134 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'jacksonObjectMapper' of type [com.fasterxml.jackson.databind.ObjectMapper] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:12,305 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'rocketMQTemplate' of type [org.apache.rocketmq.spring.core.RocketMQTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:12,308 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'transactionHandlerRegistry' of type [org.apache.rocketmq.spring.config.TransactionHandlerRegistry] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:12,415 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4224fa7c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:12,476 INFO [main][PostProcessorRegistrationDelegate.java:330] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$5e3efd79] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[transaction-service][53060] 2022-07-10 21:11:13,073 INFO [main][TomcatWebServer.java:90] - Tomcat initialized with port(s): 53060 (http)
+[transaction-service][53060] 2022-07-10 21:11:13,103 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-53060"]
+[transaction-service][53060] 2022-07-10 21:11:13,117 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+[transaction-service][53060] 2022-07-10 21:11:13,119 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.16]
+[transaction-service][53060] 2022-07-10 21:11:13,131 INFO [main][DirectJDKLog.java:173] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\jdk1.8.0_161\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\Ruby26-x64\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\VanDyke Software\Clients\;E:\Anaconda;E:\Anaconda\Library\mingw-w64\bin;E:\Anaconda\Library\usr\bin;E:\Anaconda\Library\bin;E:\Anaconda\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\mysql-5.7.20-winx64\bin;C:\Program Files\dotnet\;E:\nodejs\;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Program Files (x86)\Common Files\Thunder Network\KanKan\Codecs;E:\spark-2.1.1-hadoop2.7\bin;D:\Android\Sdk\platform-tools;E:\TortoiseSVN\bin;E:\TortoiseSVN\bin;E:\Subversion\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;E:\CMake\bin;C:\mingw64\bin;E:\scala-2.12.15\bin;C:\Program Files (x86)\scala\bin;E:\spark\bin;E:\spark-2.1.1-hadoop2.7\bin;E:\NetSarang\Xshell 7\;E:\NetSarang\Xftp 7\;C:\Program Files\Git\cmd;E:\apache-maven-3.6.3\bin;E:\jdk1.8.0_161\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;E:\IntelliJ IDEA\bin;;C:\Users\Administrator\AppData\Roaming\npm;E:\nodejs\node_global\;C:\Users\Administrator\.dotnet\tools;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;E:\Microsoft VS Code\bin;.]
+[transaction-service][53060] 2022-07-10 21:11:13,359 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+[transaction-service][53060] 2022-07-10 21:11:13,360 INFO [main][ServletWebServerApplicationContext.java:296] - Root WebApplicationContext: initialization completed in 14355 ms
+[transaction-service][53060] 2022-07-10 21:11:13,561 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+[transaction-service][53060] 2022-07-10 21:11:13,564 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[transaction-service][53060] 2022-07-10 21:11:13,604 INFO [main][DynamicPropertyFactory.java:281] - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@6aad919c
+[transaction-service][53060] 2022-07-10 21:11:14,787 INFO [main][DruidDataSource.java:1002] - {dataSource-1} inited
+[transaction-service][53060] 2022-07-10 21:11:14,984 INFO [main][DruidDataSource.java:1002] - {dataSource-2} inited
+[transaction-service][53060] 2022-07-10 21:11:20,111 INFO [main][EndpointLinksResolver.java:59] - Exposing 2 endpoint(s) beneath base path '/actuator'
+[transaction-service][53060] 2022-07-10 21:11:20,236 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+[transaction-service][53060] 2022-07-10 21:11:20,257 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+[transaction-service][53060] 2022-07-10 21:11:20,258 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[transaction-service][53060] 2022-07-10 21:11:20,437 INFO [main][ExecutorConfigurationSupport.java:171] - Initializing ExecutorService 'applicationTaskExecutor'
+[transaction-service][53060] 2022-07-10 21:11:23,016 INFO [main][InstanceInfoFactory.java:71] - Setting initial instance status as: STARTING
+[transaction-service][53060] 2022-07-10 21:11:23,079 INFO [main][DiscoveryClient.java:349] - Initializing Eureka in region us-east-1
+[transaction-service][53060] 2022-07-10 21:11:24,267 INFO [main][DiscoveryJerseyProvider.java:70] - Using JSON encoding codec LegacyJacksonJson
+[transaction-service][53060] 2022-07-10 21:11:24,267 INFO [main][DiscoveryJerseyProvider.java:71] - Using JSON decoding codec LegacyJacksonJson
+[transaction-service][53060] 2022-07-10 21:11:24,502 INFO [main][DiscoveryJerseyProvider.java:80] - Using XML encoding codec XStreamXml
+[transaction-service][53060] 2022-07-10 21:11:24,503 INFO [main][DiscoveryJerseyProvider.java:81] - Using XML decoding codec XStreamXml
+[transaction-service][53060] 2022-07-10 21:11:24,789 INFO [main][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:11:25,673 INFO [main][DiscoveryClient.java:958] - Disable delta property : false
+[transaction-service][53060] 2022-07-10 21:11:25,674 INFO [main][DiscoveryClient.java:959] - Single vip registry refresh property : null
+[transaction-service][53060] 2022-07-10 21:11:25,674 INFO [main][DiscoveryClient.java:960] - Force full registry fetch : false
+[transaction-service][53060] 2022-07-10 21:11:25,674 INFO [main][DiscoveryClient.java:961] - Application is null : false
+[transaction-service][53060] 2022-07-10 21:11:25,674 INFO [main][DiscoveryClient.java:962] - Registered Applications size is zero : true
+[transaction-service][53060] 2022-07-10 21:11:25,675 INFO [main][DiscoveryClient.java:964] - Application version is -1: true
+[transaction-service][53060] 2022-07-10 21:11:25,675 INFO [main][DiscoveryClient.java:1047] - Getting all instance registry info from the eureka server
+[transaction-service][53060] 2022-07-10 21:11:25,962 INFO [main][DiscoveryClient.java:1056] - The response status is 200
+[transaction-service][53060] 2022-07-10 21:11:25,968 INFO [main][DiscoveryClient.java:1270] - Starting heartbeat executor: renew interval is: 30
+[transaction-service][53060] 2022-07-10 21:11:25,976 INFO [main][InstanceInfoReplicator.java:60] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+[transaction-service][53060] 2022-07-10 21:11:25,983 INFO [main][DiscoveryClient.java:449] - Discovery Client initialized at timestamp 1657458685981 with initial instances count: 8
+[transaction-service][53060] 2022-07-10 21:11:25,986 INFO [main][EurekaServiceRegistry.java:42] - Registering application TRANSACTION-SERVICE with eureka with status UP
+[transaction-service][53060] 2022-07-10 21:11:25,987 INFO [main][DiscoveryClient.java:1305] - Saw local status change event StatusChangeEvent [timestamp=1657458685987, current=UP, previous=STARTING]
+[transaction-service][53060] 2022-07-10 21:11:25,990 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+[transaction-service][53060] 2022-07-10 21:11:25,992 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:826] - DiscoveryClient_TRANSACTION-SERVICE/transaction-service:192.168.1.4:53060: registering service...
+[transaction-service][53060] 2022-07-10 21:11:26,017 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+[transaction-service][53060] 2022-07-10 21:11:26,065 INFO [DiscoveryClient-InstanceInfoReplicator-0][DiscoveryClient.java:835] - DiscoveryClient_TRANSACTION-SERVICE/transaction-service:192.168.1.4:53060 - registration status: 204
+[transaction-service][53060] 2022-07-10 21:11:26,076 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+[transaction-service][53060] 2022-07-10 21:11:26,250 INFO [main][CachingOperationNameGenerator.java:40] - Generating unique operation named: handleUsingGET_1
+[transaction-service][53060] 2022-07-10 21:11:26,253 INFO [main][CachingOperationNameGenerator.java:40] - Generating unique operation named: handleUsingGET_2
+[transaction-service][53060] 2022-07-10 21:11:26,256 INFO [main][CachingOperationNameGenerator.java:40] - Generating unique operation named: handleUsingGET_3
+[transaction-service][53060] 2022-07-10 21:11:26,357 INFO [main][CachingOperationNameGenerator.java:40] - Generating unique operation named: queryProjectsUsingPOST_1
+[transaction-service][53060] 2022-07-10 21:11:26,404 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-53060"]
+[transaction-service][53060] 2022-07-10 21:11:26,437 INFO [main][TomcatWebServer.java:204] - Tomcat started on port(s): 53060 (http) with context path '/transaction'
+[transaction-service][53060] 2022-07-10 21:11:26,439 INFO [main][EurekaAutoServiceRegistration.java:141] - Updating port to 53060
+[transaction-service][53060] 2022-07-10 21:11:26,443 INFO [main][StartupInfoLogger.java:59] - Started TransactionService in 44.87 seconds (JVM running for 50.326)
+[transaction-service][53060] 2022-07-10 21:11:27,787 INFO [RMI TCP Connection(3)-172.26.144.1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[transaction-service][53060] 2022-07-10 21:11:27,788 INFO [RMI TCP Connection(3)-172.26.144.1][FrameworkServlet.java:524] - Initializing Servlet 'dispatcherServlet'
+[transaction-service][53060] 2022-07-10 21:11:27,809 INFO [RMI TCP Connection(3)-172.26.144.1][FrameworkServlet.java:546] - Completed initialization in 21 ms
+[transaction-service][53060] 2022-07-10 21:11:29,272 INFO [RMI TCP Connection(4)-172.26.144.1][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:11:29,272 INFO [RMI TCP Connection(4)-172.26.144.1][SQLLogger.java:89] - Logic SQL: /* ping */ SELECT 1
+[transaction-service][53060] 2022-07-10 21:11:29,272 INFO [RMI TCP Connection(4)-172.26.144.1][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[], parametersIndex=0, logicSQL=/* ping */ SELECT 1)), containStar=false, firstSelectItemStartIndex=18, selectListStopIndex=18, groupByLastIndex=0, items=[CommonSelectItem(expression=1, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:11:29,273 INFO [RMI TCP Connection(4)-172.26.144.1][SQLLogger.java:89] - Actual SQL: ds1 ::: /* ping */ SELECT 1
+[transaction-service][53060] 2022-07-10 21:11:39,895 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:11:39,928 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:11:40,101 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:11:40,102 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:11:40,103 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:11:40,103 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:11:40,104 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:11:40,152 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:11:40,227 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:11:40,231 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:11:40,258 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:11:40,258 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:11:40,259 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:11:40,259 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:11:40,260 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:11:40,266 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:11:40,567 INFO [http-nio-53060-exec-1][ChainedDynamicProperty.java:115] - Flipping property: depository-agent-service.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+[transaction-service][53060] 2022-07-10 21:11:40,594 INFO [http-nio-53060-exec-1][ShutdownEnabledTimer.java:58] - Shutdown hook installed for: NFLoadBalancer-PingTimer-depository-agent-service
+[transaction-service][53060] 2022-07-10 21:11:40,595 INFO [http-nio-53060-exec-1][BaseLoadBalancer.java:197] - Client: depository-agent-service instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=depository-agent-service,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+[transaction-service][53060] 2022-07-10 21:11:40,607 INFO [http-nio-53060-exec-1][DynamicServerListLoadBalancer.java:222] - Using serverListUpdater PollingServerListUpdater
+[transaction-service][53060] 2022-07-10 21:11:40,629 INFO [http-nio-53060-exec-1][ChainedDynamicProperty.java:115] - Flipping property: depository-agent-service.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+[transaction-service][53060] 2022-07-10 21:11:40,632 INFO [http-nio-53060-exec-1][DynamicServerListLoadBalancer.java:150] - DynamicServerListLoadBalancer for client depository-agent-service initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=depository-agent-service,current list of Servers=[192.168.1.4:53070],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:192.168.1.4:53070;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@78cd7fe2
+[transaction-service][53060] 2022-07-10 21:11:41,222 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - ==>  Preparing: UPDATE tender SET CONSUMER_ID=?, CONSUMER_USERNAME=?, USER_NO=?, PROJECT_ID=?, PROJECT_NO=?, AMOUNT=?, TENDER_STATUS=?, CREATE_DATE=?, REQUEST_NO=?, STATUS=?, PROJECT_PERIOD=?, PROJECT_ANNUAL_RATE=? WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:11:41,226 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - ==> Parameters: 1001(Long), 15378791981(String), USR_3525C3F56E36416B9FA7696619E2F96Y(String), 1546109979008921602(Long), 令狐泽银先生第2次借款(String), 6000(BigDecimal), LOAN(String), 2022-07-10 20:33:38.0(Timestamp), REQ_6231805C2F9B48AF885472C26E77272B(String), 1(Integer), 180(Integer), 0.00(BigDecimal), 1546110394077245442(Long)
+[transaction-service][53060] 2022-07-10 21:11:41,254 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:11:41,254 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Logic SQL: UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:11:41,255 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - SQLStatement: DMLStatement(super=AbstractSQLStatement(type=DML, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=13, logicSQL=UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?), deleteStatement=false, updateTableAlias={tender=tender}, updateColumnValues={Column(name=CONSUMER_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6dbbec0a, Column(name=CONSUMER_USERNAME, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@693d73fc, Column(name=USER_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7c541c79, Column(name=PROJECT_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6096afa0, Column(name=PROJECT_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@527fc404, Column(name=AMOUNT, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@505fff24, Column(name=TENDER_STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@cb48682, Column(name=CREATE_DATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@598ad31b, Column(name=REQUEST_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@757963ca, Column(name=STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@5af0049e, Column(name=PROJECT_PERIOD, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@725809d4, Column(name=PROJECT_ANNUAL_RATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7d450e8f}, whereStartIndex=202, whereStopIndex=211, whereParameterStartIndex=12, whereParameterEndIndex=12)
+[transaction-service][53060] 2022-07-10 21:11:41,256 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:11:41,257 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:11:41,258 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:11:41,259 INFO [http-nio-53060-exec-1][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:11:41,274 DEBUG [http-nio-53060-exec-1][BaseJdbcLogger.java:159] - <==    Updates: 1
+[transaction-service][53060] 2022-07-10 21:11:41,303 WARN [http-nio-53060-exec-1][ProjectServiceImpl.java:419] - 审核满标放款失败!标的ID为:1546109979008921602,存管代理服务返回的状态为:00000
+[transaction-service][53060] 2022-07-10 21:11:41,618 INFO [PollingServerListUpdater-0][ChainedDynamicProperty.java:115] - Flipping property: depository-agent-service.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+[transaction-service][53060] 2022-07-10 21:14:34,759 DEBUG [http-nio-53060-exec-3][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT COUNT(1) FROM project WHERE PROJECT_STATUS = ? 
+[transaction-service][53060] 2022-07-10 21:14:34,760 DEBUG [http-nio-53060-exec-3][BaseJdbcLogger.java:159] - ==> Parameters: FULLY(String)
+[transaction-service][53060] 2022-07-10 21:14:34,807 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:14:34,808 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Logic SQL: SELECT COUNT(1) FROM project WHERE PROJECT_STATUS = ?
+[transaction-service][53060] 2022-07-10 21:14:34,809 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT COUNT(1) FROM project WHERE PROJECT_STATUS = ?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=14, groupByLastIndex=0, items=[AggregationSelectItem(type=COUNT, innerExpression=(1), alias=Optional.absent(), derivedAggregationSelectItems=[], index=-1)], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:14:34,811 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT COUNT(1) FROM project_0 WHERE PROJECT_STATUS = ? ::: [FULLY]
+[transaction-service][53060] 2022-07-10 21:14:34,812 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT COUNT(1) FROM project_1 WHERE PROJECT_STATUS = ? ::: [FULLY]
+[transaction-service][53060] 2022-07-10 21:14:34,812 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT COUNT(1) FROM project_0 WHERE PROJECT_STATUS = ? ::: [FULLY]
+[transaction-service][53060] 2022-07-10 21:14:34,813 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT COUNT(1) FROM project_1 WHERE PROJECT_STATUS = ? ::: [FULLY]
+[transaction-service][53060] 2022-07-10 21:14:34,911 DEBUG [http-nio-53060-exec-3][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE PROJECT_STATUS = ? ORDER BY CREATE_DATE DESC LIMIT ?,? 
+[transaction-service][53060] 2022-07-10 21:14:34,915 DEBUG [http-nio-53060-exec-3][BaseJdbcLogger.java:159] - ==> Parameters: FULLY(String), 0(Long), 10(Long)
+[transaction-service][53060] 2022-07-10 21:14:35,000 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:14:35,001 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE  FROM project 
+ 
+ WHERE PROJECT_STATUS = ? ORDER BY CREATE_DATE DESC LIMIT ?,?
+[transaction-service][53060] 2022-07-10 21:14:35,003 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=3, logicSQL=SELECT  ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE  FROM project 
+ 
+ WHERE PROJECT_STATUS = ? ORDER BY CREATE_DATE DESC LIMIT ?,?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=217, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[OrderItem(owner=Optional.absent(), name=Optional.of(CREATE_DATE), orderDirection=DESC, nullOrderDirection=ASC, index=-1, expression=null, alias=Optional.absent())], limit=Limit(offset=LimitValue(value=-1, index=1, boundOpened=false), rowCount=LimitValue(value=-1, index=2, boundOpened=false)), subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:14:35,004 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE  FROM project_0 
+ 
+ WHERE PROJECT_STATUS = ? ORDER BY CREATE_DATE DESC LIMIT ?,? ::: [FULLY, 0, 10]
+[transaction-service][53060] 2022-07-10 21:14:35,006 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE  FROM project_1 
+ 
+ WHERE PROJECT_STATUS = ? ORDER BY CREATE_DATE DESC LIMIT ?,? ::: [FULLY, 0, 10]
+[transaction-service][53060] 2022-07-10 21:14:35,007 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE  FROM project_0 
+ 
+ WHERE PROJECT_STATUS = ? ORDER BY CREATE_DATE DESC LIMIT ?,? ::: [FULLY, 0, 10]
+[transaction-service][53060] 2022-07-10 21:14:35,008 INFO [http-nio-53060-exec-3][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE  FROM project_1 
+ 
+ WHERE PROJECT_STATUS = ? ORDER BY CREATE_DATE DESC LIMIT ?,? ::: [FULLY, 0, 10]
+[transaction-service][53060] 2022-07-10 21:14:35,028 DEBUG [http-nio-53060-exec-3][BaseJdbcLogger.java:159] - <==      Total: 2
+[transaction-service][53060] 2022-07-10 21:14:36,601 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:14:36,606 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:14:36,608 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:14:36,609 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:14:36,609 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:14:36,610 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:14:36,610 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:14:36,617 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:14:36,622 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:14:36,626 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:14:36,627 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:14:36,627 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:14:36,627 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:14:36,628 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:14:36,628 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:14:36,634 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:14:38,610 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==>  Preparing: UPDATE tender SET CONSUMER_ID=?, CONSUMER_USERNAME=?, USER_NO=?, PROJECT_ID=?, PROJECT_NO=?, AMOUNT=?, TENDER_STATUS=?, CREATE_DATE=?, REQUEST_NO=?, STATUS=?, PROJECT_PERIOD=?, PROJECT_ANNUAL_RATE=? WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:14:38,615 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==> Parameters: 1001(Long), 15378791981(String), USR_3525C3F56E36416B9FA7696619E2F96Y(String), 1546109979008921602(Long), 令狐泽银先生第2次借款(String), 6000(BigDecimal), LOAN(String), 2022-07-10 20:33:38.0(Timestamp), REQ_6231805C2F9B48AF885472C26E77272B(String), 1(Integer), 180(Integer), 0.00(BigDecimal), 1546110394077245442(Long)
+[transaction-service][53060] 2022-07-10 21:14:38,617 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:14:38,618 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Logic SQL: UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:14:38,619 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - SQLStatement: DMLStatement(super=AbstractSQLStatement(type=DML, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=13, logicSQL=UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?), deleteStatement=false, updateTableAlias={tender=tender}, updateColumnValues={Column(name=CONSUMER_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6dbbec0a, Column(name=CONSUMER_USERNAME, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@693d73fc, Column(name=USER_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7c541c79, Column(name=PROJECT_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6096afa0, Column(name=PROJECT_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@527fc404, Column(name=AMOUNT, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@505fff24, Column(name=TENDER_STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@cb48682, Column(name=CREATE_DATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@598ad31b, Column(name=REQUEST_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@757963ca, Column(name=STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@5af0049e, Column(name=PROJECT_PERIOD, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@725809d4, Column(name=PROJECT_ANNUAL_RATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7d450e8f}, whereStartIndex=202, whereStopIndex=211, whereParameterStartIndex=12, whereParameterEndIndex=12)
+[transaction-service][53060] 2022-07-10 21:14:38,620 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:14:38,621 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:14:38,622 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:14:38,623 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:14:38,631 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - <==    Updates: 1
+[transaction-service][53060] 2022-07-10 21:14:38,696 WARN [http-nio-53060-exec-4][ProjectServiceImpl.java:419] - 审核满标放款失败!标的ID为:1546109979008921602,存管代理服务返回的状态为:00000
+[transaction-service][53060] 2022-07-10 21:15:53,304 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:15:54,323 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:16:25,684 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:19:37,205 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:19:37,211 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:19:37,213 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:19:37,214 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:19:37,215 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:19:37,216 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:19:37,217 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:19:37,235 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:19:37,240 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:19:37,243 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:19:37,244 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:19:37,246 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:19:37,247 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:19:37,248 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:19:37,249 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:19:37,254 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:19:39,056 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==>  Preparing: UPDATE tender SET CONSUMER_ID=?, CONSUMER_USERNAME=?, USER_NO=?, PROJECT_ID=?, PROJECT_NO=?, AMOUNT=?, TENDER_STATUS=?, CREATE_DATE=?, REQUEST_NO=?, STATUS=?, PROJECT_PERIOD=?, PROJECT_ANNUAL_RATE=? WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:19:39,060 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==> Parameters: 1001(Long), 15378791981(String), USR_3525C3F56E36416B9FA7696619E2F96Y(String), 1546109979008921602(Long), 令狐泽银先生第2次借款(String), 6000(BigDecimal), LOAN(String), 2022-07-10 20:33:38.0(Timestamp), REQ_6231805C2F9B48AF885472C26E77272B(String), 1(Integer), 180(Integer), 0.00(BigDecimal), 1546110394077245442(Long)
+[transaction-service][53060] 2022-07-10 21:19:39,061 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:19:39,061 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Logic SQL: UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:19:39,062 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - SQLStatement: DMLStatement(super=AbstractSQLStatement(type=DML, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=13, logicSQL=UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?), deleteStatement=false, updateTableAlias={tender=tender}, updateColumnValues={Column(name=CONSUMER_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6dbbec0a, Column(name=CONSUMER_USERNAME, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@693d73fc, Column(name=USER_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7c541c79, Column(name=PROJECT_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6096afa0, Column(name=PROJECT_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@527fc404, Column(name=AMOUNT, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@505fff24, Column(name=TENDER_STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@cb48682, Column(name=CREATE_DATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@598ad31b, Column(name=REQUEST_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@757963ca, Column(name=STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@5af0049e, Column(name=PROJECT_PERIOD, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@725809d4, Column(name=PROJECT_ANNUAL_RATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7d450e8f}, whereStartIndex=202, whereStopIndex=211, whereParameterStartIndex=12, whereParameterEndIndex=12)
+[transaction-service][53060] 2022-07-10 21:19:39,062 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:19:39,063 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:19:39,063 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:19:39,064 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:19:39,072 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - <==    Updates: 1
+[transaction-service][53060] 2022-07-10 21:19:39,128 WARN [http-nio-53060-exec-5][ProjectServiceImpl.java:419] - 审核满标放款失败!标的ID为:1546109979008921602,存管代理服务返回的状态为:00000
+[transaction-service][53060] 2022-07-10 21:20:53,304 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:20:54,323 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:21:25,822 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:25:53,311 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:25:54,329 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:26:25,833 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:30:53,301 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:30:54,322 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:31:01,215 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:31:01,224 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:31:01,225 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:31:01,226 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:31:01,227 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:31:01,228 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:31:01,229 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:31:01,247 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:31:01,251 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:31:01,255 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:31:01,256 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:31:01,256 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:31:01,257 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:31:01,257 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:31:01,257 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:31:01,262 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:31:03,112 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==>  Preparing: UPDATE tender SET CONSUMER_ID=?, CONSUMER_USERNAME=?, USER_NO=?, PROJECT_ID=?, PROJECT_NO=?, AMOUNT=?, TENDER_STATUS=?, CREATE_DATE=?, REQUEST_NO=?, STATUS=?, PROJECT_PERIOD=?, PROJECT_ANNUAL_RATE=? WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:31:03,118 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==> Parameters: 1001(Long), 15378791981(String), USR_3525C3F56E36416B9FA7696619E2F96Y(String), 1546109979008921602(Long), 令狐泽银先生第2次借款(String), 6000(BigDecimal), LOAN(String), 2022-07-10 20:33:38.0(Timestamp), REQ_6231805C2F9B48AF885472C26E77272B(String), 1(Integer), 180(Integer), 0.00(BigDecimal), 1546110394077245442(Long)
+[transaction-service][53060] 2022-07-10 21:31:03,119 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:31:03,120 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Logic SQL: UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:31:03,121 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - SQLStatement: DMLStatement(super=AbstractSQLStatement(type=DML, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=13, logicSQL=UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?), deleteStatement=false, updateTableAlias={tender=tender}, updateColumnValues={Column(name=CONSUMER_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6dbbec0a, Column(name=CONSUMER_USERNAME, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@693d73fc, Column(name=USER_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7c541c79, Column(name=PROJECT_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6096afa0, Column(name=PROJECT_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@527fc404, Column(name=AMOUNT, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@505fff24, Column(name=TENDER_STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@cb48682, Column(name=CREATE_DATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@598ad31b, Column(name=REQUEST_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@757963ca, Column(name=STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@5af0049e, Column(name=PROJECT_PERIOD, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@725809d4, Column(name=PROJECT_ANNUAL_RATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7d450e8f}, whereStartIndex=202, whereStopIndex=211, whereParameterStartIndex=12, whereParameterEndIndex=12)
+[transaction-service][53060] 2022-07-10 21:31:03,122 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:31:03,123 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:31:03,124 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:31:03,125 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:31:03,136 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - <==    Updates: 1
+[transaction-service][53060] 2022-07-10 21:31:03,198 WARN [http-nio-53060-exec-8][ProjectServiceImpl.java:419] - 审核满标放款失败!标的ID为:1546109979008921602,存管代理服务返回的状态为:00000
+[transaction-service][53060] 2022-07-10 21:31:25,835 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:34:45,718 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:34:45,723 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:34:45,725 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:34:45,726 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:34:45,726 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:34:45,727 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:34:45,728 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:34:45,746 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:34:45,749 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:34:45,753 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:34:45,754 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:34:45,755 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:34:45,755 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:34:45,756 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:34:45,756 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:34:45,761 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:34:47,687 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - ==>  Preparing: UPDATE tender SET CONSUMER_ID=?, CONSUMER_USERNAME=?, USER_NO=?, PROJECT_ID=?, PROJECT_NO=?, AMOUNT=?, TENDER_STATUS=?, CREATE_DATE=?, REQUEST_NO=?, STATUS=?, PROJECT_PERIOD=?, PROJECT_ANNUAL_RATE=? WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:34:47,693 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - ==> Parameters: 1001(Long), 15378791981(String), USR_3525C3F56E36416B9FA7696619E2F96Y(String), 1546109979008921602(Long), 令狐泽银先生第2次借款(String), 6000(BigDecimal), LOAN(String), 2022-07-10 20:33:38.0(Timestamp), REQ_6231805C2F9B48AF885472C26E77272B(String), 1(Integer), 180(Integer), 0.00(BigDecimal), 1546110394077245442(Long)
+[transaction-service][53060] 2022-07-10 21:34:47,694 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:34:47,695 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Logic SQL: UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:34:47,696 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - SQLStatement: DMLStatement(super=AbstractSQLStatement(type=DML, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=13, logicSQL=UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?), deleteStatement=false, updateTableAlias={tender=tender}, updateColumnValues={Column(name=CONSUMER_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6dbbec0a, Column(name=CONSUMER_USERNAME, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@693d73fc, Column(name=USER_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7c541c79, Column(name=PROJECT_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6096afa0, Column(name=PROJECT_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@527fc404, Column(name=AMOUNT, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@505fff24, Column(name=TENDER_STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@cb48682, Column(name=CREATE_DATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@598ad31b, Column(name=REQUEST_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@757963ca, Column(name=STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@5af0049e, Column(name=PROJECT_PERIOD, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@725809d4, Column(name=PROJECT_ANNUAL_RATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7d450e8f}, whereStartIndex=202, whereStopIndex=211, whereParameterStartIndex=12, whereParameterEndIndex=12)
+[transaction-service][53060] 2022-07-10 21:34:47,697 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:34:47,698 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:34:47,698 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:34:47,699 INFO [http-nio-53060-exec-10][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:34:47,708 DEBUG [http-nio-53060-exec-10][BaseJdbcLogger.java:159] - <==    Updates: 1
+[transaction-service][53060] 2022-07-10 21:34:47,767 WARN [http-nio-53060-exec-10][ProjectServiceImpl.java:419] - 审核满标放款失败!标的ID为:1546109979008921602,存管代理服务返回的状态为:00000
+[transaction-service][53060] 2022-07-10 21:35:53,299 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:35:54,304 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:36:25,847 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:37:58,361 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:37:58,365 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:37:58,366 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:37:58,368 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:37:58,369 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:37:58,370 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:37:58,371 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:37:58,388 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:37:58,393 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:37:58,395 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:37:58,396 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:37:58,396 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:37:58,396 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:37:58,397 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:37:58,397 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:37:58,401 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:38:00,206 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - ==>  Preparing: UPDATE tender SET CONSUMER_ID=?, CONSUMER_USERNAME=?, USER_NO=?, PROJECT_ID=?, PROJECT_NO=?, AMOUNT=?, TENDER_STATUS=?, CREATE_DATE=?, REQUEST_NO=?, STATUS=?, PROJECT_PERIOD=?, PROJECT_ANNUAL_RATE=? WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:38:00,209 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - ==> Parameters: 1001(Long), 15378791981(String), USR_3525C3F56E36416B9FA7696619E2F96Y(String), 1546109979008921602(Long), 令狐泽银先生第2次借款(String), 6000(BigDecimal), LOAN(String), 2022-07-10 20:33:38.0(Timestamp), REQ_6231805C2F9B48AF885472C26E77272B(String), 1(Integer), 180(Integer), 0.00(BigDecimal), 1546110394077245442(Long)
+[transaction-service][53060] 2022-07-10 21:38:00,209 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:38:00,209 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Logic SQL: UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:38:00,210 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - SQLStatement: DMLStatement(super=AbstractSQLStatement(type=DML, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=13, logicSQL=UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?), deleteStatement=false, updateTableAlias={tender=tender}, updateColumnValues={Column(name=CONSUMER_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6dbbec0a, Column(name=CONSUMER_USERNAME, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@693d73fc, Column(name=USER_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7c541c79, Column(name=PROJECT_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6096afa0, Column(name=PROJECT_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@527fc404, Column(name=AMOUNT, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@505fff24, Column(name=TENDER_STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@cb48682, Column(name=CREATE_DATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@598ad31b, Column(name=REQUEST_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@757963ca, Column(name=STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@5af0049e, Column(name=PROJECT_PERIOD, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@725809d4, Column(name=PROJECT_ANNUAL_RATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7d450e8f}, whereStartIndex=202, whereStopIndex=211, whereParameterStartIndex=12, whereParameterEndIndex=12)
+[transaction-service][53060] 2022-07-10 21:38:00,212 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:38:00,212 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:38:00,212 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:38:00,214 INFO [http-nio-53060-exec-2][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:38:00,221 DEBUG [http-nio-53060-exec-2][BaseJdbcLogger.java:159] - <==    Updates: 1
+[transaction-service][53060] 2022-07-10 21:38:00,280 WARN [http-nio-53060-exec-2][ProjectServiceImpl.java:419] - 审核满标放款失败!标的ID为:1546109979008921602,存管代理服务返回的状态为:00000
+[transaction-service][53060] 2022-07-10 21:40:53,311 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:40:54,327 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:41:25,861 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:45:53,300 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:45:54,320 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:46:21,871 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:46:21,875 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:46:21,876 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:46:21,877 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:46:21,878 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:46:21,879 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:46:21,880 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:46:21,901 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:46:21,905 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:46:21,908 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:46:21,909 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:46:21,910 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:46:21,910 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:46:21,910 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:46:21,911 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:46:21,915 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:46:24,064 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==>  Preparing: UPDATE tender SET CONSUMER_ID=?, CONSUMER_USERNAME=?, USER_NO=?, PROJECT_ID=?, PROJECT_NO=?, AMOUNT=?, TENDER_STATUS=?, CREATE_DATE=?, REQUEST_NO=?, STATUS=?, PROJECT_PERIOD=?, PROJECT_ANNUAL_RATE=? WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:46:24,068 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - ==> Parameters: 1001(Long), 15378791981(String), USR_3525C3F56E36416B9FA7696619E2F96Y(String), 1546109979008921602(Long), 令狐泽银先生第2次借款(String), 6000(BigDecimal), LOAN(String), 2022-07-10 20:33:38.0(Timestamp), REQ_6231805C2F9B48AF885472C26E77272B(String), 1(Integer), 180(Integer), 0.00(BigDecimal), 1546110394077245442(Long)
+[transaction-service][53060] 2022-07-10 21:46:24,069 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:46:24,069 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Logic SQL: UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:46:24,069 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - SQLStatement: DMLStatement(super=AbstractSQLStatement(type=DML, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=13, logicSQL=UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?), deleteStatement=false, updateTableAlias={tender=tender}, updateColumnValues={Column(name=CONSUMER_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6dbbec0a, Column(name=CONSUMER_USERNAME, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@693d73fc, Column(name=USER_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7c541c79, Column(name=PROJECT_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6096afa0, Column(name=PROJECT_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@527fc404, Column(name=AMOUNT, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@505fff24, Column(name=TENDER_STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@cb48682, Column(name=CREATE_DATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@598ad31b, Column(name=REQUEST_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@757963ca, Column(name=STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@5af0049e, Column(name=PROJECT_PERIOD, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@725809d4, Column(name=PROJECT_ANNUAL_RATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7d450e8f}, whereStartIndex=202, whereStopIndex=211, whereParameterStartIndex=12, whereParameterEndIndex=12)
+[transaction-service][53060] 2022-07-10 21:46:24,070 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:46:24,071 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:46:24,072 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:46:24,072 INFO [http-nio-53060-exec-4][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:46:24,080 DEBUG [http-nio-53060-exec-4][BaseJdbcLogger.java:159] - <==    Updates: 1
+[transaction-service][53060] 2022-07-10 21:46:24,140 WARN [http-nio-53060-exec-4][ProjectServiceImpl.java:419] - 审核满标放款失败!标的ID为:1546109979008921602,存管代理服务返回的状态为:00000
+[transaction-service][53060] 2022-07-10 21:46:25,868 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:48:50,379 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:48:50,384 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:48:50,386 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:48:50,387 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:48:50,387 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:48:50,388 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:48:50,389 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:48:50,410 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:48:50,413 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:48:50,419 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:48:50,420 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:48:50,420 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:48:50,421 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:48:50,421 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:48:50,421 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:48:50,425 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:48:52,203 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==>  Preparing: UPDATE tender SET CONSUMER_ID=?, CONSUMER_USERNAME=?, USER_NO=?, PROJECT_ID=?, PROJECT_NO=?, AMOUNT=?, TENDER_STATUS=?, CREATE_DATE=?, REQUEST_NO=?, STATUS=?, PROJECT_PERIOD=?, PROJECT_ANNUAL_RATE=? WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:48:52,212 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - ==> Parameters: 1001(Long), 15378791981(String), USR_3525C3F56E36416B9FA7696619E2F96Y(String), 1546109979008921602(Long), 令狐泽银先生第2次借款(String), 6000(BigDecimal), LOAN(String), 2022-07-10 20:33:38.0(Timestamp), REQ_6231805C2F9B48AF885472C26E77272B(String), 1(Integer), 180(Integer), 0.00(BigDecimal), 1546110394077245442(Long)
+[transaction-service][53060] 2022-07-10 21:48:52,213 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:48:52,214 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Logic SQL: UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:48:52,214 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - SQLStatement: DMLStatement(super=AbstractSQLStatement(type=DML, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=13, logicSQL=UPDATE tender  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=?), deleteStatement=false, updateTableAlias={tender=tender}, updateColumnValues={Column(name=CONSUMER_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6dbbec0a, Column(name=CONSUMER_USERNAME, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@693d73fc, Column(name=USER_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7c541c79, Column(name=PROJECT_ID, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@6096afa0, Column(name=PROJECT_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@527fc404, Column(name=AMOUNT, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@505fff24, Column(name=TENDER_STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@cb48682, Column(name=CREATE_DATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@598ad31b, Column(name=REQUEST_NO, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@757963ca, Column(name=STATUS, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@5af0049e, Column(name=PROJECT_PERIOD, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@725809d4, Column(name=PROJECT_ANNUAL_RATE, tableName=tender)=org.apache.shardingsphere.core.parse.old.parser.expression.SQLPlaceholderExpression@7d450e8f}, whereStartIndex=202, whereStopIndex=211, whereParameterStartIndex=12, whereParameterEndIndex=12)
+[transaction-service][53060] 2022-07-10 21:48:52,214 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:48:52,215 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds0 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:48:52,215 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_0  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:48:52,216 INFO [http-nio-53060-exec-5][SQLLogger.java:89] - Actual SQL: ds1 ::: UPDATE tender_1  SET CONSUMER_ID=?,
+CONSUMER_USERNAME=?,
+USER_NO=?,
+PROJECT_ID=?,
+PROJECT_NO=?,
+AMOUNT=?,
+TENDER_STATUS=?,
+CREATE_DATE=?,
+REQUEST_NO=?,
+STATUS=?,
+
+PROJECT_PERIOD=?,
+PROJECT_ANNUAL_RATE=?  WHERE ID=? ::: [1001, 15378791981, USR_3525C3F56E36416B9FA7696619E2F96Y, 1546109979008921602, 令狐泽银先生第2次借款, 6000, LOAN, 2022-07-10T20:33:38.000+0800, REQ_6231805C2F9B48AF885472C26E77272B, 1, 180, 0.00, 1546110394077245442]
+[transaction-service][53060] 2022-07-10 21:48:52,223 DEBUG [http-nio-53060-exec-5][BaseJdbcLogger.java:159] - <==    Updates: 1
+[transaction-service][53060] 2022-07-10 21:48:52,280 WARN [http-nio-53060-exec-5][ProjectServiceImpl.java:419] - 审核满标放款失败!标的ID为:1546109979008921602,存管代理服务返回的状态为:00000
+[transaction-service][53060] 2022-07-10 21:50:53,304 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:50:54,323 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:51:25,872 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[transaction-service][53060] 2022-07-10 21:54:20,399 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=? 
+[transaction-service][53060] 2022-07-10 21:54:20,408 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:54:20,409 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:54:20,409 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Logic SQL: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?
+[transaction-service][53060] 2022-07-10 21:54:20,410 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=project, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=ID, tableName=project), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=project, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project WHERE ID=?)), containStar=false, firstSelectItemStartIndex=7, selectListStopIndex=216, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=NAME, alias=Optional.absent()), CommonSelectItem(expression=DESCRIPTION, alias=Optional.absent()), CommonSelectItem(expression=TYPE, alias=Optional.absent()), CommonSelectItem(expression=PERIOD, alias=Optional.absent()), CommonSelectItem(expression=ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=BORROWER_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=COMMISSION_ANNUAL_RATE, alias=Optional.absent()), CommonSelectItem(expression=REPAYMENT_WAY, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=IS_ASSIGNMENT, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=MODIFY_DATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:54:20,411 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:54:20,412 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT ID,CONSUMER_ID,USER_NO,PROJECT_NO,NAME,DESCRIPTION,TYPE,PERIOD,ANNUAL_RATE,BORROWER_ANNUAL_RATE,COMMISSION_ANNUAL_RATE,REPAYMENT_WAY,AMOUNT,PROJECT_STATUS,CREATE_DATE,STATUS,IS_ASSIGNMENT,REQUEST_NO,MODIFY_DATE FROM project_0 WHERE ID=? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:54:20,442 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:54:20,447 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==>  Preparing: SELECT ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE FROM tender WHERE PROJECT_ID = ? 
+[transaction-service][53060] 2022-07-10 21:54:20,454 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - ==> Parameters: 1546109979008921602(Long)
+[transaction-service][53060] 2022-07-10 21:54:20,455 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Rule Type: sharding
+[transaction-service][53060] 2022-07-10 21:54:20,455 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Logic SQL: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?
+[transaction-service][53060] 2022-07-10 21:54:20,456 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - SQLStatement: SelectStatement(super=DQLStatement(super=AbstractSQLStatement(type=DQL, tables=Tables(tables=[Table(name=tender, alias=Optional.absent())]), routeConditions=Conditions(orCondition=OrCondition(andConditions=[AndCondition(conditions=[Condition(column=Column(name=PROJECT_ID, tableName=tender), operator=EQUAL, compareOperator==, positionValueMap={}, positionIndexMap={0=0})])])), encryptConditions=Conditions(orCondition=OrCondition(andConditions=[])), sqlTokens=[TableToken(tableName=tender, quoteCharacter=NONE, schemaNameLength=0)], parametersIndex=1, logicSQL=SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender 
+ 
+ WHERE PROJECT_ID = ?)), containStar=false, firstSelectItemStartIndex=8, selectListStopIndex=168, groupByLastIndex=0, items=[CommonSelectItem(expression=ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_ID, alias=Optional.absent()), CommonSelectItem(expression=CONSUMER_USERNAME, alias=Optional.absent()), CommonSelectItem(expression=USER_NO, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ID, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NO, alias=Optional.absent()), CommonSelectItem(expression=AMOUNT, alias=Optional.absent()), CommonSelectItem(expression=TENDER_STATUS, alias=Optional.absent()), CommonSelectItem(expression=CREATE_DATE, alias=Optional.absent()), CommonSelectItem(expression=REQUEST_NO, alias=Optional.absent()), CommonSelectItem(expression=STATUS, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_NAME, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_PERIOD, alias=Optional.absent()), CommonSelectItem(expression=PROJECT_ANNUAL_RATE, alias=Optional.absent())], groupByItems=[], orderByItems=[], limit=null, subqueryStatement=null, subqueryStatements=[], subqueryConditions=[])
+[transaction-service][53060] 2022-07-10 21:54:20,456 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds0 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:54:20,457 INFO [http-nio-53060-exec-8][SQLLogger.java:89] - Actual SQL: ds1 ::: SELECT  ID,CONSUMER_ID,CONSUMER_USERNAME,USER_NO,PROJECT_ID,PROJECT_NO,AMOUNT,TENDER_STATUS,CREATE_DATE,REQUEST_NO,STATUS,PROJECT_NAME,PROJECT_PERIOD,PROJECT_ANNUAL_RATE  FROM tender_0 
+ 
+ WHERE PROJECT_ID = ? ::: [1546109979008921602]
+[transaction-service][53060] 2022-07-10 21:54:20,460 DEBUG [http-nio-53060-exec-8][BaseJdbcLogger.java:159] - <==      Total: 1
+[transaction-service][53060] 2022-07-10 21:54:40,487 ERROR [http-nio-53060-exec-8][GlobalExceptionHandler.java:42] - 系统异常:Read timed out executing POST http://depository-agent-service/depository-agent/l/confirm-loan
+[transaction-service][53060] 2022-07-10 21:55:53,310 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: transaction-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[transaction-service][53060] 2022-07-10 21:55:54,325 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/transaction-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22transaction-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A285%2C%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: transaction-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[transaction-service][53060] 2022-07-10 21:56:25,880 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration

@@ -1,0 +1,2 @@
+[ConsumerService][53050] 2022-07-10 13:51:47,468 ERROR [http-nio-53050-exec-1][GlobalExceptionHandler.java:42] - 系统异常:Required String parameter 'callbackURL' is not present
+[ConsumerService][53050] 2022-07-10 13:54:45,678 ERROR [http-nio-53050-exec-3][GlobalExceptionHandler.java:42] - 系统异常:Required String parameter 'callbackURL' is not present

@@ -1,0 +1,811 @@
+[Repayment-Service][53080] 2022-07-09 17:00:00,198 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:00:01,268 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:00:17,938 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:00:19,973 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:00:21,456 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:00:21,994 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:00:24,026 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:00:26,045 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:00:51,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:00:52,309 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:00,215 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:01:14,151 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:16,164 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:18,178 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:20,225 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:21,453 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:22,264 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:38,202 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:40,242 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:47,972 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:50,015 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:51,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:01:52,060 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:00,219 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:02:02,313 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:04,344 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:17,968 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:20,006 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:21,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:22,031 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:26,380 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:28,400 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:47,960 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:49,975 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:51,444 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:52,008 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:02:54,040 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:00,233 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:03:16,061 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:18,090 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:20,128 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:21,458 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:22,151 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:24,185 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:40,119 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:42,148 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:47,953 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:49,963 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:51,482 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:51,989 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:03:52,959 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:03:53,969 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:03:59,135 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:04:00,153 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:04:00,238 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:04:04,184 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:06,205 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:17,963 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:20,000 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:21,458 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:22,020 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:28,246 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:30,282 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:43,225 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:04:47,949 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:49,967 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:51,456 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:51,993 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:54,020 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:04:56,034 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:00,242 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:05:17,955 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:19,985 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:21,460 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:22,026 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:24,041 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:46,078 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:48,094 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:50,127 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:51,449 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:05:52,148 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:00,249 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:06:11,099 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:13,125 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:17,955 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:19,989 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:21,458 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:22,025 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:35,150 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:37,177 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:47,965 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:49,979 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:51,444 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:52,010 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:06:59,224 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:00,257 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:07:01,263 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:17,949 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:19,969 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:21,451 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:21,982 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:24,018 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:26,044 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:47,965 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:49,995 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:51,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:52,024 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:07:54,042 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:00,267 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:08:16,089 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:18,117 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:20,139 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:21,450 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:22,166 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:24,202 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:40,163 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:42,176 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:47,956 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:49,974 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:51,437 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:52,005 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:08:52,953 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:08:53,972 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:08:59,130 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:09:00,144 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:09:00,274 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:09:04,200 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:06,235 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:17,959 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:20,003 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:21,462 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:22,023 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:28,270 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:30,291 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:43,232 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:09:47,944 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:49,955 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:51,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:51,968 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:53,997 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:09:56,013 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:00,276 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:10:17,943 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:21,444 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:21,996 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:24,024 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:46,086 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:48,112 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:50,152 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:51,451 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:10:52,202 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:00,291 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:11:11,130 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:13,158 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:17,960 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:20,010 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:21,446 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:22,030 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:35,188 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:37,222 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:47,958 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:49,992 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:51,476 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:52,034 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:11:59,297 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:00,302 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:12:01,365 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:17,963 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:19,989 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:21,472 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:22,020 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:24,066 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:26,102 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:47,984 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:50,000 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:51,452 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:52,029 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:12:54,056 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:00,316 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:13:16,104 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:18,126 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:20,154 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:21,454 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:22,174 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:41,149 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:43,194 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:47,938 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:49,972 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:51,445 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:51,998 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:13:52,958 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:13:53,976 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:13:59,138 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:14:00,151 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:14:00,329 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:14:05,232 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:07,273 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:17,959 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:21,443 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:22,080 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:29,297 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:31,327 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:43,241 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:14:47,955 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:49,986 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:51,452 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:52,018 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:54,052 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:14:56,062 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:00,332 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:15:17,972 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:20,010 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:21,459 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:22,042 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:24,066 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:46,121 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:48,151 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:51,470 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:15:52,216 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:00,338 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:16:11,192 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:13,224 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:17,953 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:21,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:22,013 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:35,259 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:37,296 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:50,004 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:51,452 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:52,062 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:16:59,328 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:00,348 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:17:01,375 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:17,976 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:20,008 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:21,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:22,047 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:24,085 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:26,124 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:47,968 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:50,018 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:51,496 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:52,067 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:17:54,116 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:00,360 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:18:16,159 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:18,191 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:20,231 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:21,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:22,275 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:24,315 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:40,249 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:42,277 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:47,959 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:49,994 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:51,490 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:52,036 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:18:52,951 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:18:53,969 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:18:59,137 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:19:00,149 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:19:00,374 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:19:04,311 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:06,343 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:17,962 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:19,996 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:21,481 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:22,035 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:28,371 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:30,401 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:43,242 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:19:47,961 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:50,017 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:51,475 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:52,058 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:54,099 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:19:56,114 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:00,388 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:20:17,956 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:19,989 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:21,466 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:22,022 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:24,051 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:46,095 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:48,136 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:50,170 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:51,466 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:20:52,209 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:00,399 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:21:11,149 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:13,184 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:19,999 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:21,443 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:22,046 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:37,246 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:47,949 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:49,993 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:51,470 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:52,029 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:21:59,297 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:00,403 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:22:01,331 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:17,984 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:20,039 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:21,477 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:22,086 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:24,124 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:26,149 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:47,978 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:50,005 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:51,468 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:52,043 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:22:54,075 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:00,424 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:23:16,103 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:18,131 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:20,163 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:21,477 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:22,199 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:41,157 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:43,203 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:47,953 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:49,986 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:51,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:52,028 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:23:52,968 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:23:53,989 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:23:59,148 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:24:00,169 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:24:00,441 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:24:07,269 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:21,447 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:22,010 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:29,330 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:31,372 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:43,244 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:24:47,962 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:49,991 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:51,472 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:52,021 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:24:56,093 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:00,458 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:25:17,958 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:19,986 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:21,462 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:22,025 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:24,049 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:48,146 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:50,190 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:51,445 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:52,237 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:25:54,272 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:00,486 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:26:10,211 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:12,256 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:17,976 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:20,015 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:21,475 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:22,067 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:36,325 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:47,973 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:49,992 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:51,459 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:52,043 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:26:58,357 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:00,398 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:00,504 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:27:17,962 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:19,987 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:21,460 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:22,012 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:24,047 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:26,086 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:47,960 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:49,984 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:51,469 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:52,011 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:27:54,035 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:00,515 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:28:16,080 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:18,100 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:20,132 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:21,476 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:22,170 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:24,202 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:40,156 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:42,182 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:47,964 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:49,999 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:51,454 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:52,019 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:28:52,961 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:28:53,975 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:28:59,146 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:29:00,165 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:29:00,526 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:29:04,215 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:06,237 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:20,106 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:21,486 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:22,290 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:30,544 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:43,255 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:29:47,969 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:49,996 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:51,465 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:52,076 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:29:56,361 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:00,536 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:30:17,967 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:20,018 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:21,451 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:22,053 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:24,081 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:46,110 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:48,140 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:50,169 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:51,482 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:52,195 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:30:54,228 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:00,553 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:31:10,176 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:12,264 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:18,177 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:20,392 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:21,584 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:22,765 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:36,339 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:47,941 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:49,976 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:51,445 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:31:51,994 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:00,566 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:32:00,679 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:21,495 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:22,083 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:24,119 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:26,417 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:47,940 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:49,965 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:51,452 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:51,993 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:32:54,026 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:00,573 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:33:16,061 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:18,095 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:20,120 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:21,448 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:22,142 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:24,175 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:40,128 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:42,145 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:47,952 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:49,985 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:51,455 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:52,008 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:33:52,957 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:33:53,972 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:33:59,141 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:34:00,165 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:34:00,592 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:34:04,187 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:06,208 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:17,951 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:19,986 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:21,495 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:22,025 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:30,298 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:43,264 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:34:51,455 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:51,994 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:54,020 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:34:56,045 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:00,598 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:35:17,946 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:19,984 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:21,463 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:22,031 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:24,071 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:46,131 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:48,187 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:51,495 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:52,281 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:35:54,306 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:00,606 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:36:10,244 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:12,291 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:17,960 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:20,004 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:21,475 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:22,049 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:34,332 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:36,369 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:47,948 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:49,969 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:51,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:52,005 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:36:58,405 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:00,432 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:00,619 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:37:17,979 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:20,351 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:21,460 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:22,385 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:24,405 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:26,434 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:50,040 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:51,458 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:52,060 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:37:54,083 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:00,629 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:38:16,128 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:18,173 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:20,208 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:21,452 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:22,222 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:24,233 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:40,205 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:42,236 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:47,945 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:49,987 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:51,462 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:52,020 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:38:52,953 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:38:53,963 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:38:59,142 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:39:00,154 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:39:00,636 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:39:04,262 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:06,276 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:17,981 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:20,026 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:21,447 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:22,060 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:28,319 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:30,351 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:43,278 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:39:48,003 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:50,047 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:51,454 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:52,076 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:54,109 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:39:56,137 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:00,646 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:40:17,962 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:19,989 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:21,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:22,009 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:24,029 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:46,057 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:48,078 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:50,112 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:51,460 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:52,135 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:40:54,175 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:00,661 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:41:10,114 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:12,143 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:17,956 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:19,986 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:21,447 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:22,034 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:34,171 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:36,194 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:47,957 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:49,980 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:51,466 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:52,002 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:41:58,233 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:00,267 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:00,664 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:42:17,966 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:20,005 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:21,458 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:22,031 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:24,058 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:26,094 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:47,946 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:49,961 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:51,442 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:52,002 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:42:54,021 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:00,671 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:43:16,046 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:18,077 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:20,094 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:21,453 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:22,124 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:24,160 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:40,101 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:42,131 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:47,982 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:51,486 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:52,057 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:43:52,962 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:43:53,995 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:43:59,137 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:44:00,163 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:44:00,686 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:44:04,168 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:06,190 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:17,938 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:19,981 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:21,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:22,008 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:28,228 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:30,254 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:43,282 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:44:47,971 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:50,022 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:51,488 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:52,052 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:54,100 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:44:56,140 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:00,696 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:45:17,951 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:20,004 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:21,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:22,028 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:24,079 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:46,131 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:48,173 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:50,214 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:51,474 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:52,265 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:45:54,314 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:00,704 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:46:10,230 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:12,602 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:17,983 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:20,016 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:21,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:22,058 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:34,648 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:36,705 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:47,966 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:50,004 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:51,462 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:46:52,019 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:00,711 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:47:00,760 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:19,990 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:21,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:22,043 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:26,159 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:47,986 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:50,036 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:51,469 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:52,097 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:47:54,121 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:00,722 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:48:18,266 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:20,296 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:21,495 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:22,337 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:24,383 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:42,345 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:51,482 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:52,060 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:48:52,960 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:48:53,977 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:48:59,146 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:49:00,162 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:49:00,733 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:49:04,401 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:06,438 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:17,969 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:20,002 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:21,480 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:22,041 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:30,579 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:43,294 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:49:47,970 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:50,034 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:51,463 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:52,076 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:54,127 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:49:56,171 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:00,744 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:50:17,938 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:21,474 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:22,006 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:24,020 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:46,048 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:48,075 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:50,117 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:51,482 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:50:52,142 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:00,754 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:51:11,104 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:13,148 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:17,966 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:20,010 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:21,489 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:22,066 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:35,201 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:37,230 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:47,960 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:50,004 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:51,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:52,046 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:51:59,282 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:00,759 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:52:01,325 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:17,962 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:21,469 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:22,031 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:24,060 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:26,119 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:47,960 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:51,481 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:52,030 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:52:54,058 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:00,775 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:53:16,071 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:18,121 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:21,477 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:22,194 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:24,230 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:40,282 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:42,606 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:47,958 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:49,992 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:51,464 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:52,027 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:53:52,956 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:53:53,978 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:53:59,143 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:54:00,157 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:54:00,780 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:54:04,646 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:06,703 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:20,014 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:21,457 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:22,062 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:30,930 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:43,304 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:54:47,960 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:50,006 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:51,471 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:52,037 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:54,077 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:54:56,112 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:00,797 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:55:17,944 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:19,992 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:21,468 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:22,037 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:24,071 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:46,130 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:48,162 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:50,189 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:51,456 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:55:52,235 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:00,804 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:56:11,166 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:13,205 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:19,974 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:21,459 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:22,012 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:35,241 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:37,282 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:47,957 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:49,987 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:51,452 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:52,003 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:56:59,326 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:00,820 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:57:01,341 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:17,951 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:19,979 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:21,449 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:22,017 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:24,043 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:26,067 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:47,943 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:49,980 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:51,442 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:51,994 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:57:54,023 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:00,830 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:58:16,081 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:18,120 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:20,144 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:21,456 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:22,183 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:41,144 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:43,187 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:49,972 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:51,463 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:52,007 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:58:52,960 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: application
+[Repayment-Service][53080] 2022-07-09 17:58:53,979 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: application, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/application?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22repayment-service%2Bdefault%2Bapplication%22%3A318%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: application, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:58:59,147 WARN [Apollo-RemoteConfigRepository-1][RemoteConfigRepository.java:194] - Load config failed, will retry in 1 SECONDS. appId: repayment-service, cluster: DEFAULT, namespaces: micro_service.spring-cloud-feign
+[Repayment-Service][53080] 2022-07-09 17:59:00,159 WARN [Apollo-RemoteConfigRepository-1][AbstractConfigRepository.java:26] - Sync config failed, will retry. Repository class com.ctrip.framework.apollo.internals.RemoteConfigRepository, reason: Load Apollo Config failed - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, url: http://192.168.1.4:8080/configs/repayment-service/DEFAULT/micro_service.spring-cloud-feign?ip=172.26.144.1&messages=%7B%22details%22%3A%7B%22common-template%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A403%2C%22repayment-service%2Bdefault%2Bmicro_service.spring-cloud-feign%22%3A323%7D%7D [Cause: [status code: 404] Could not find config for namespace - appId: repayment-service, cluster: DEFAULT, namespace: micro_service.spring-cloud-feign, please check whether the configs are released in Apollo!]
+[Repayment-Service][53080] 2022-07-09 17:59:00,845 INFO [hmilyTransaction-tccRollBackService-1][LogUtil.java:87] - rollback execute delayTime:60
+[Repayment-Service][53080] 2022-07-09 17:59:05,244 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:07,286 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:17,972 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:19,988 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:21,463 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:22,038 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:29,329 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:31,350 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:43,313 INFO [AsyncResolver-bootstrap-executor-0][ConfigClusterResolver.java:43] - Resolving eureka endpoints via configuration
+[Repayment-Service][53080] 2022-07-09 17:59:47,969 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:50,014 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:51,478 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:52,056 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:54,098 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true
+[Repayment-Service][53080] 2022-07-09 17:59:56,145 INFO [NettyClientSelector_1][Slf4jLoggerFactory.java:95] - closeChannel: close the connection to remote address[] result: true

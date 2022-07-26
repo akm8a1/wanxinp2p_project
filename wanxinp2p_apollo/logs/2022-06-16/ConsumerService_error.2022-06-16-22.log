@@ -1,0 +1,7 @@
+[ConsumerService][53050] 2022-06-16 22:35:05,394 ERROR [http-nio-53050-exec-10][GlobalExceptionHandler.java:42] - 系统异常:null
+[ConsumerService][53050] 2022-06-16 22:35:19,151 ERROR [http-nio-53050-exec-1][GlobalExceptionHandler.java:42] - 系统异常:null
+[ConsumerService][53050] 2022-06-16 22:36:50,065 ERROR [http-nio-53050-exec-9][GlobalExceptionHandler.java:42] - 系统异常:null
+[ConsumerService][53050] 2022-06-16 22:37:59,332 ERROR [http-nio-53050-exec-7][GlobalExceptionHandler.java:42] - 系统异常:null
+[ConsumerService][53050] 2022-06-16 22:46:40,483 ERROR [http-nio-53050-exec-1][GlobalExceptionHandler.java:42] - 系统异常:null
+[ConsumerService][53050] 2022-06-16 22:57:43,210 ERROR [http-nio-53050-exec-8][GlobalExceptionHandler.java:42] - 系统异常:null
+[ConsumerService][53050] 2022-06-16 22:59:14,469 ERROR [http-nio-53050-exec-5][GlobalExceptionHandler.java:42] - 系统异常:null

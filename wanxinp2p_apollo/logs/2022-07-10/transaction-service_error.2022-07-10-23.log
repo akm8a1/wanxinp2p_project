@@ -1,0 +1,3 @@
+[transaction-service][53060] 2022-07-10 23:49:14,324 ERROR [http-nio-53060-exec-10][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-07-10 23:49:23,795 ERROR [http-nio-53060-exec-5][GlobalExceptionHandler.java:42] - 系统异常:null
+[transaction-service][53060] 2022-07-10 23:50:38,831 ERROR [http-nio-53060-exec-5][GlobalExceptionHandler.java:42] - 系统异常:null
